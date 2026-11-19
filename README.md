@@ -1,6 +1,6 @@
 # Uttar Pradesh PDS Settlement-Size & Haul-Distance Pipeline (`up-pds-spatial-analysis`)
 
-This repository contains the Python pipeline and geospatial datasets used to classify institutional settlement tiers (Urban, Semi-Urban, Rural) and compute Public Distribution System (PDS) transport haul-distance metrics across Uttar Pradesh, India. 
+This repository contains the Python pipeline (`main.py`) and geospatial datasets used to classify institutional settlement tiers (Urban, Semi-Urban, Rural) and compute Public Distribution System (PDS) transport haul-distance metrics across Uttar Pradesh, India. 
 
 Using administrative boundaries, Fair Price Shop (FPS) coordinates, Food Corporation of India (FCI) godown locations, and beneficiary counts, the script performs sensitivity analyses across population thresholds (τ = 50k to 200k, benchmarked at the Census of India Class-I threshold of 100k) and automatically outputs publication-ready LaTeX tables and high-resolution figures.
 
@@ -11,9 +11,10 @@ All input files reside in the root directory so the pipeline runs out of the box
 ```text
 up-pds-spatial-analysis/
 ├── README.md                                       # Project documentation
+├── CITATION.cff                                    # GitHub citation metadata
+├── LICENSE                                         # Dual MIT (code) & CC-BY 4.0 (data) license
 ├── requirements.txt                                # Python package dependencies
-├── .gitignore                                      # Excludes generated outputs if desired
-├── settlement_transport_pipeline.py                # Main analysis script (rename to match your .py file)
+├── main.py                                         # Main analysis script
 ├── final_recovered_matched_up.geojson              # Urban & rural administrative polygons
 ├── Godowns_Deduplicated_LocationDetails.csv        # FCI storage godown coordinates
 ├── FPS_Deduplicated_LocationDetails.csv            # Active Fair Price Shop (FPS) coordinates
@@ -37,7 +38,7 @@ up-pds-spatial-analysis/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com<your-username>/up-pds-spatial-analysis.git
+   git clone https://github.com
    cd up-pds-spatial-analysis
    ```
 
@@ -48,12 +49,31 @@ up-pds-spatial-analysis/
 
 3. **Run the pipeline:**
    ```bash
-   python settlement_transport_pipeline.py
+   python main.py
    ```
 
 ## Generated Outputs
 
-Running the script generates the following datasets, tables, and figures in the root directory:
+Running `main.py` generates the following datasets, tables, and figures in the root directory:
 * **CSV Datasets:** `FPS_Detailed_Location_and_Godown_Mapping_ClassI_100k.csv`, `Service_Radius_Coverage_Buckets_ClassI_100k.csv`, and `Statewide_Settlement_Sensitivity_50k_to_200k.csv`.
 * **LaTeX Tables:** `table1_sensitivity.tex` and `table2_buckets.tex`.
 * **Figures (300 DPI PNG):** `Figure1_Distance_Variation_By_Area_Type.png` through `Figure4_Statewide_Zonal_Boundaries.png`.
+
+## License
+
+* **Code:** Licensed under the [MIT License](LICENSE).
+* **Datasets:** Licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org).
+
+## Citation
+
+If you use this code or dataset in your research, please cite our working paper and repository:
+
+```bibtex
+@misc{VikasEtAl2026_UP_PDS,
+  author       = {Vikas, Kumar and Raz, G. and Kohar, Amit and Jakhar, S. K.},
+  title        = {[Fleet Electrification in Public Food Distribution: Carbon Credit Incentives vs. Transition Mandates]},
+  year         = {2026},
+  howpublished = {Working Paper},
+  url          = {https://github.com}
+}
+```
