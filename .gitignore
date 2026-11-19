@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated pipeline outputs
+FPS_Detailed_Location_and_Godown_Mapping_ClassI_100k.csv
+Service_Radius_Coverage_Buckets_ClassI_100k.csv
+Statewide_Settlement_Sensitivity_50k_to_200k.csv
+table1_sensitivity.tex
+table2_buckets.tex
+Figure1_Distance_Variation_By_Area_Type.png
+Figure2_Consolidated_Experiment_Summary.png
+Figure3_Coverage_Radius_Distribution.png
+Figure4_Statewide_Zonal_Boundaries.png
