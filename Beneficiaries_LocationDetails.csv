@@ -1,0 +1,1627 @@
+District,Area_Type,Town_Block_Name,Total_RationCard,Total_Beneficiary
+Agra,Urban,Achhnera (NPP),4151,17519
+Agra,Urban,Agra (CB),0,0
+Agra,Urban,Agra (M Corp.),245802,1034391
+Agra,Urban,Bah (NPP),2789,11212
+Agra,Urban,Dayalbagh (NP),304,1129
+Agra,Urban,Etmadpur (NPP),4784,20255
+Agra,Urban,Fatehabad (NP),3435,13827
+Agra,Urban,Fatehpur Sikri (NPP),5400,25077
+Agra,Urban,Jagner (NP),1965,8333
+Agra,Urban,Kheragarh (NP),3740,15328
+Agra,Urban,Kiraoali (NP),4196,18848
+Agra,Urban,Pinahat (NP),3581,15134
+Agra,Urban,Shamsabad (NPP),4753,21822
+Agra,Urban,Swamibagh (NP),197,733
+Agra,Rural,ACHHNERA,35395,138969
+Agra,Rural,AKOLA,27604,101238
+Agra,Rural,BAH,29870,107755
+Agra,Rural,BARAULI AHIR,48193,197439
+Agra,Rural,BICHPURI,26667,106621
+Agra,Rural,ETTMADPUR,33161,129039
+Agra,Rural,FATEHABAD,36810,144620
+Agra,Rural,FATEHPUR SIKRI,28819,111981
+Agra,Rural,JAGNER,23093,92447
+Agra,Rural,JAITPUR KALAN,25324,92788
+Agra,Rural,KHANDAULI,35620,139111
+Agra,Rural,KHERAGARH,31585,128050
+Agra,Rural,PINAHAT,25753,99686
+Agra,Rural,SAIYAN,31212,130245
+Agra,Rural,SHAMSABAD,37420,153818
+Aligarh,Urban,Aligarh (M Corp.),173080,712659
+Aligarh,Urban,Atrauli (NPP),10180,40546
+Aligarh,Urban,barauli np,3240,13273
+Aligarh,Urban,Beswan (NP),992,3993
+Aligarh,Urban,chandaus np,2309,10046
+Aligarh,Urban,Chharra Rafatpur (NP),3463,15019
+Aligarh,Urban,gabhana np,2823,11746
+Aligarh,Urban,Harduaganj (NP),2694,11104
+Aligarh,Urban,Iglas (NP),2409,9424
+Aligarh,Urban,Jalali (NP),3872,16183
+Aligarh,Urban,Jatari (NP),2693,11068
+Aligarh,Urban,jawan sikandarpur np,3392,13668
+Aligarh,Urban,Kauriaganj (NP),1880,7424
+Aligarh,Urban,Khair (NPP),5769,24183
+Aligarh,Urban,madrak np,4558,16770
+Aligarh,Urban,Pilkhana (NP),1607,7048
+Aligarh,Urban,pisawa np,2823,11656
+Aligarh,Urban,Vijaigarh (NP),1069,4648
+Aligarh,Rural,AKRABAD,31705,115812
+Aligarh,Rural,ATRAULI,46740,175191
+Aligarh,Rural,BIJAULI,37190,139621
+Aligarh,Rural,CHANDAUS,29814,118144
+Aligarh,Rural,DHANIPUR,35028,134025
+Aligarh,Rural,GANGIRI,56217,212420
+Aligarh,Rural,GONDA,31571,117792
+Aligarh,Rural,IGLAS,30928,121007
+Aligarh,Rural,JAWAN,35033,141423
+Aligarh,Rural,KHAIR,33963,124508
+Aligarh,Rural,LODHA,31008,115303
+Aligarh,Rural,TAPPAL,35510,128307
+Ambedkar Nagar,Urban,Akbarpur (NPP),17010,69406
+Ambedkar Nagar,Urban,Ashrafpur Kichhauchha (NP),4501,17899
+Ambedkar Nagar,Urban,Iltifatganj Bazar (NP),3165,13192
+Ambedkar Nagar,Urban,jahangirganj np,5406,24384
+Ambedkar Nagar,Urban,Jalalpur (NPP),8063,34738
+Ambedkar Nagar,Urban,rajesultanpur np,3756,15728
+Ambedkar Nagar,Urban,Tanda (NPP),14259,59870
+Ambedkar Nagar,Rural,AKBARPUR,53338,229443
+Ambedkar Nagar,Rural,BASKHARI,35754,157684
+Ambedkar Nagar,Rural,BHITI,33729,144316
+Ambedkar Nagar,Rural,BHIYAON,36197,164888
+Ambedkar Nagar,Rural,JAHANGIRGANJ,28470,129458
+Ambedkar Nagar,Rural,JALAPUR,49474,218008
+Ambedkar Nagar,Rural,KATEHARI,39622,176358
+Ambedkar Nagar,Rural,RAMNAGAR,40442,179419
+Ambedkar Nagar,Rural,TANDA,46266,197950
+Amethi,Urban,Amethi (NP),1812,7570
+Amethi,Urban,gauriganj np,4698,18916
+Amethi,Urban,Jais (NPP),4053,17305
+Amethi,Urban,Musafirkhana (NP),1072,4551
+Amethi,Rural,AMETHI,23546,95276
+Amethi,Rural,BAHADURPUR,21392,84300
+Amethi,Rural,BHADAR,23981,100970
+Amethi,Rural,BHETAU,18864,78590
+Amethi,Rural,GAURIGANJ,22733,92134
+Amethi,Rural,JAGDISHPUR,42751,170298
+Amethi,Rural,JAMO,32189,130757
+Amethi,Rural,MUSAFIRKHANA,26740,104419
+Amethi,Rural,SANGRAMPUR,16349,67399
+Amethi,Rural,SHAHGARH,14791,60091
+Amethi,Rural,SHUKUL BAZAR,30486,119542
+Amethi,Rural,SINGHPUR,35672,136475
+Amethi,Rural,TILOI,28098,108659
+Amroha,Urban,Amroha (NPP),37748,155174
+Amroha,Urban,Bachhraon (NPP),4148,18866
+Amroha,Urban,Dhanaura (NPP),4329,16859
+Amroha,Urban,Gajraula (NP),7059,27903
+Amroha,Urban,Hasanpur (NPP),9734,42153
+Amroha,Urban,Joya (NP),2743,12599
+Amroha,Urban,Naugawan Sadat (NP),4253,19999
+Amroha,Urban,saidangali,3108,12776
+Amroha,Urban,Ujhari (NP),3306,15406
+Amroha,Rural,AMROHA,41492,164147
+Amroha,Rural,AMROHA(DHANAURA),0,0
+Amroha,Rural,DHANAURA,38267,145887
+Amroha,Rural,GAJRAULA,35520,144001
+Amroha,Rural,GAJRAULA(HASANPUR),0,0
+Amroha,Rural,GANGESHWARI,43808,175501
+Amroha,Rural,HASANPUR,38909,152721
+Amroha,Rural,JOYA,51130,212645
+Amroha,Rural,JOYA(DHANAURA),0,0
+Auraiya,Urban,Achhalda (NP),1623,6145
+Auraiya,Urban,Atasu (NP),2497,9334
+Auraiya,Urban,Auraiya (NPP),15988,62158
+Auraiya,Urban,Babarpur Ajitmal (NP),4867,18876
+Auraiya,Urban,Bidhuna (NP),5188,20499
+Auraiya,Urban,Dibiyapur (NP),3370,12849
+Auraiya,Urban,Phaphund (NP),3316,13337
+Auraiya,Rural,ACHHALDA,34305,128447
+Auraiya,Rural,AJITMAL,32764,120148
+Auraiya,Rural,AURAIYA,40574,148305
+Auraiya,Rural,BHAGYANAGAR,36958,141437
+Auraiya,Rural,BIDHUNA,35543,129906
+Auraiya,Rural,ERWA KATRA,27191,104871
+Auraiya,Rural,SAHAR,34429,128554
+Ayodhya,Urban,Ayodhya (NPP),22769,95782
+Ayodhya,Urban,Bhadarsa (NP),6890,31979
+Ayodhya,Urban,Bikapur (NP),2527,11248
+Ayodhya,Urban,Faizabad (CB),21240,90674
+Ayodhya,Urban,Faizabad (NPP),0,0
+Ayodhya,Urban,Gosainganj (NP),1900,8095
+Ayodhya,Urban,khirauni np,3627,15806
+Ayodhya,Urban,kumarganj np,2322,9117
+Ayodhya,Urban,maa kamakhya dham np,4705,20213
+Ayodhya,Urban,Rudauli (NPP),13470,58733
+Ayodhya,Rural,AMANIGANJ,33062,128976
+Ayodhya,Rural,BIKAPUR,32756,138908
+Ayodhya,Rural,HARINGTANGANJ,29643,118478
+Ayodhya,Rural,MASODHA,23848,102606
+Ayodhya,Rural,MAWAI,28128,113524
+Ayodhya,Rural,MAYA BAZAR,31950,133359
+Ayodhya,Rural,MILKIPUR,37202,148290
+Ayodhya,Rural,PURA BAZAR,24318,103811
+Ayodhya,Rural,RUDAULI,44926,189554
+Ayodhya,Rural,SOHAWAL,33424,145190
+Ayodhya,Rural,TARUN,38535,164831
+Azamgarh,Urban,Atrauliya (NP),1382,5914
+Azamgarh,Urban,Azamgarh (NPP),13346,59028
+Azamgarh,Urban,Azmatgarh (NP),2486,10639
+Azamgarh,Urban,Bilariaganj (NP),13790,63287
+Azamgarh,Urban,budhanpur np,3601,15554
+Azamgarh,Urban,jahanaganj bazaar np,3871,16706
+Azamgarh,Urban,Jiyanpur (NP),1665,7595
+Azamgarh,Urban,Katghar Lalganj (NP),3724,18078
+Azamgarh,Urban,Mahrajganj (NP),1870,8530
+Azamgarh,Urban,mahul np,1761,7788
+Azamgarh,Urban,martinganj np,5605,26429
+Azamgarh,Urban,Mehnagar (NP),1987,8227
+Azamgarh,Urban,Mubarakpur (NPP),14374,72543
+Azamgarh,Urban,Nizamabad (NP),1862,8416
+Azamgarh,Urban,Phulpur (NP),1134,5105
+Azamgarh,Urban,Sarai Mir (NP),2655,13563
+Azamgarh,Rural,AHIRAULA,35439,151792
+Azamgarh,Rural,ATRAULIYA,22882,98957
+Azamgarh,Rural,AZAMAT GARH,37454,161302
+Azamgarh,Rural,BILARIAGANJ,28951,126760
+Azamgarh,Rural,HARAIYA,35144,154563
+Azamgarh,Rural,JAHANAGANJ,26936,116759
+Azamgarh,Rural,KOLSA,29482,125891
+Azamgarh,Rural,LALGANJ AJHARA,31731,138221
+Azamgarh,Rural,MAHRAJGANJ,34043,151812
+Azamgarh,Rural,MATINGANJ,31012,135390
+Azamgarh,Rural,MEH NAGAR,31295,138797
+Azamgarh,Rural,MIRZAPUR,32216,146563
+Azamgarh,Rural,MOHAMMADPUR,30390,133824
+Azamgarh,Rural,PALHANA,19402,82910
+Azamgarh,Rural,PALHANI,35488,149768
+Azamgarh,Rural,PAWAI,35805,154719
+Azamgarh,Rural,PHULPUR,32781,140475
+Azamgarh,Rural,RANI KA SARAI,30684,130344
+Azamgarh,Rural,SATHIYAON,37523,159143
+Azamgarh,Rural,TAHBARPUR,30297,132309
+Azamgarh,Rural,TARWAN,34467,144179
+Azamgarh,Rural,TEKMA,34177,145542
+Baghpat,Urban,Agarwal Mandi (Tatiri) (NP),2118,8978
+Baghpat,Urban,Aminagar Sarai (NP),1589,7009
+Baghpat,Urban,Baghpat (NPP),8071,39253
+Baghpat,Urban,Baraut (NPP),11938,52805
+Baghpat,Urban,Chhaprauli (NP),2653,11876
+Baghpat,Urban,Doghat (NP),1803,7935
+Baghpat,Urban,Khekada (NP),7006,29177
+Baghpat,Urban,rataul np,2799,13971
+Baghpat,Urban,Tikri (NP),2039,9566
+Baghpat,Rural,BAGHPAT-11 [R],27681,118544
+Baghpat,Rural,BARAUT-13 [R],34185,151193
+Baghpat,Rural,BINAULI-16 [R],33580,148252
+Baghpat,Rural,CHHAPRAULI-15 [R],22786,102396
+Baghpat,Rural,KHEKRA-19 [R],18628,76456
+Baghpat,Rural,PILANA-20 [R],27861,121276
+Bahraich,Urban,Bahraich (NPP),30867,120529
+Bahraich,Urban,Jarwal (NP),3175,14067
+Bahraich,Urban,kaisarganj np,5048,18964
+Bahraich,Urban,mihinpurwa np,4805,17306
+Bahraich,Urban,Nanpara (NPP),8033,30793
+Bahraich,Urban,payagpur np,3945,15364
+Bahraich,Urban,Risiya Bazar (NP),2338,7944
+Bahraich,Urban,rupaidha np,3797,14653
+Bahraich,Rural,BALHA,49936,181529
+Bahraich,Rural,CHITTAURA,53889,193864
+Bahraich,Rural,HUZURPUR,41101,153580
+Bahraich,Rural,JARWAL,44925,173284
+Bahraich,Rural,KAISARGANJ,36600,136757
+Bahraich,Rural,MAHASI,49497,174314
+Bahraich,Rural,MIHINPURWA,76372,272290
+Bahraich,Rural,NAWABGANJ,38201,135523
+Bahraich,Rural,PAYAGPUR,37952,142816
+Bahraich,Rural,PHAKHARPUR,50961,194356
+Bahraich,Rural,RISIA,47998,181873
+Bahraich,Rural,SHIVPUR,51998,189241
+Bahraich,Rural,TEJWAPUR,45030,159000
+Bahraich,Rural,VISHESHWARGANJ,41889,167911
+Ballia,Urban,bairia np,5232,20959
+Ballia,Urban,Ballia (NPP),16121,60303
+Ballia,Urban,Bansdih (NP),3793,15221
+Ballia,Urban,Belthara Road (NP),2713,10849
+Ballia,Urban,Chitbara Gaon (NP),3822,16162
+Ballia,Urban,Maniyar (NP),3311,13836
+Ballia,Urban,nagra np,3148,14251
+Ballia,Urban,Rasra (NPP),4753,19402
+Ballia,Urban,ratsar kalan np,3412,14036
+Ballia,Urban,Reoti (NP),4737,19159
+Ballia,Urban,Sahatwar (NP),3327,13141
+Ballia,Urban,Sikanderpur (NP),4057,17333
+Ballia,Rural,BAIRIYA,27503,113272
+Ballia,Rural,BANSDIH,31067,127722
+Ballia,Rural,BELHARI,25014,102009
+Ballia,Rural,BERUARWARI,24228,101440
+Ballia,Rural,CHILKAHAR,33860,142900
+Ballia,Rural,DUBHAD,32842,139431
+Ballia,Rural,GAHWAR,27255,116252
+Ballia,Rural,HAMUMANGANJ,35872,156329
+Ballia,Rural,MANIYAR,27080,112668
+Ballia,Rural,MURLI CHHAPRA,28082,111453
+Ballia,Rural,NAGRA,45084,191798
+Ballia,Rural,NAVANAGAR,30331,130159
+Ballia,Rural,PANDAH,28588,120979
+Ballia,Rural,RASRA,36847,155751
+Ballia,Rural,REVATI,29951,123389
+Ballia,Rural,SIAR,44007,179938
+Ballia,Rural,SOHAON,30307,128236
+Balrampur,Urban,Balrampur (NPP),12068,54107
+Balrampur,Urban,gainsari np,2274,10939
+Balrampur,Urban,Pachperwa (NP),3681,15667
+Balrampur,Urban,Tulsipur (NP),3800,16099
+Balrampur,Urban,Utraula (NPP),5100,22054
+Balrampur,Rural,BALRAMPUR,58741,257580
+Balrampur,Rural,GAINDAS BUZURG,24014,104533
+Balrampur,Rural,GASARI,37475,170108
+Balrampur,Rural,HARYA SATGHARWA,49624,218482
+Balrampur,Rural,PACHPERWA,33833,147405
+Balrampur,Rural,RAHERA BAZAR,37402,174278
+Balrampur,Rural,SHRI DUTT GANJ,29005,124638
+Balrampur,Rural,TULSIPUR,43164,184558
+Balrampur,Rural,UTRAULA,26791,118853
+Banda,Urban,Atarra (NPP),7448,26307
+Banda,Urban,Baberu (NP),2279,8608
+Banda,Urban,Banda (NPP),24151,92446
+Banda,Urban,Bisanda Buzurg (NP),2487,9719
+Banda,Urban,Mataundh (NP),1462,5886
+Banda,Urban,Naraini (NP),2880,10827
+Banda,Urban,Oran (NP),1436,5250
+Banda,Urban,Tindwari (NP),2312,9120
+Banda,Rural,BABERU,43694,158129
+Banda,Rural,BADOKHAR KHURD,40270,146084
+Banda,Rural,BISANDA,40537,146517
+Banda,Rural,JASPURA,21182,75902
+Banda,Rural,KAMASIN,34908,128558
+Banda,Rural,MAHUA,44638,158697
+Banda,Rural,NARAINI,56937,211547
+Banda,Rural,TINDWARI,33481,126200
+Bara Banki,Urban,Banki (NP),3527,13883
+Bara Banki,Urban,belhara np,3716,15342
+Bara Banki,Urban,Dariyabad (NP),3121,13285
+Bara Banki,Urban,Dewa (NP),2650,11395
+Bara Banki,Urban,Fatehpur (NP),7882,31714
+Bara Banki,Urban,Haidergarh (NP),2635,9839
+Bara Banki,Urban,Nawabganj (NPP),19390,76410
+Bara Banki,Urban,Ramnagar (NP),4092,16398
+Bara Banki,Urban,ramsanehi ghat np,3990,14812
+Bara Banki,Urban,Satrikh (NP),2052,9143
+Bara Banki,Urban,Siddhaur (NP),2314,8863
+Bara Banki,Urban,Subeha (NP),5100,19633
+Bara Banki,Urban,Tikait Nagar (NP),1554,6298
+Bara Banki,Urban,Zaidpur (NP),6380,28307
+Bara Banki,Rural,BANIKODAR,46539,177160
+Bara Banki,Rural,BANKI,33947,140073
+Bara Banki,Rural,DARIYABAD,38444,145964
+Bara Banki,Rural,DEWA,39214,160956
+Bara Banki,Rural,FATEHPUR,42082,169503
+Bara Banki,Rural,HAIDERGARH,33412,129373
+Bara Banki,Rural,HARAKH,37455,147170
+Bara Banki,Rural,MASAULI,37928,154703
+Bara Banki,Rural,NINDAURA,45222,175787
+Bara Banki,Rural,PUREDALAL,27116,107025
+Bara Banki,Rural,RAMNAGAR,35077,140574
+Bara Banki,Rural,SIDDHAUR,49703,180805
+Bara Banki,Rural,SIRAULI GAUSPUR,41510,161760
+Bara Banki,Rural,SURATGANJ,46603,189506
+Bara Banki,Rural,TRIVENIGANJ,35917,129655
+Bareilly,Urban,Aonla (NPP),11592,45892
+Bareilly,Urban,Baheri (NPP),9942,47344
+Bareilly,Urban,Bareilly (CB),0,0
+Bareilly,Urban,Bareilly (M Corp.),134306,548264
+Bareilly,Urban,Bisharatganj (NP),2860,13055
+Bareilly,Urban,Deoranian (NP),3619,16630
+Bareilly,Urban,Dhaura Tanda (NP),4563,22258
+Bareilly,Urban,Faridpur (NP),1088,4928
+Bareilly,Urban,Faridpur (NPP),12656,55187
+Bareilly,Urban,Fatehganj Pashchimi (NP),4687,20423
+Bareilly,Urban,Fatehganj Purvi (NP),1290,5178
+Bareilly,Urban,Mirganj (NP),3155,14161
+Bareilly,Urban,Nawabganj (NPP),7226,31137
+Bareilly,Urban,Richha (NP),2188,10770
+Bareilly,Urban,Rithora (NP),2617,11405
+Bareilly,Urban,Sainthal (NP),2488,10758
+Bareilly,Urban,Shahi (NP),2475,11125
+Bareilly,Urban,Shergarh (NP),2926,13885
+Bareilly,Urban,Shishgarh (NP),4975,23922
+Bareilly,Urban,Sirauli (NP),3123,13600
+Bareilly,Urban,Thiriya Nizamat Khan (NP),2745,12050
+Bareilly,Rural,ALAMPUR JAFRABAD,42785,149190
+Bareilly,Rural,BAHERI,43438,172702
+Bareilly,Rural,BHADPURA,35232,130373
+Bareilly,Rural,BHOJIPURA,36234,154335
+Bareilly,Rural,BHUTA,41936,157009
+Bareilly,Rural,BITHIRI CHAINPUR,41036,168659
+Bareilly,Rural,FARIDPUR,32809,125600
+Bareilly,Rural,Fatehganj West,33119,133571
+Bareilly,Rural,KYARA,26995,109551
+Bareilly,Rural,MAJHGAWAN,44753,163069
+Bareilly,Rural,MIRGANJ,35229,136441
+Bareilly,Rural,NAWABGANJ,55454,219722
+Bareilly,Rural,RAM NAGAR,31552,114950
+Bareilly,Rural,RICHHA,35409,137181
+Bareilly,Rural,Shergarh,47651,191424
+Basti,Urban,bankati np,3947,15996
+Basti,Urban,Basti (NPP),14010,58937
+Basti,Urban,Bhabnan Bazar (NP),3266,13620
+Basti,Urban,bhanpur np,4157,17763
+Basti,Urban,gaighat np,2963,10542
+Basti,Urban,ganeshpur np,3884,14852
+Basti,Urban,Harraiya (NP),3774,14387
+Basti,Urban,kaptanganj np,3663,15691
+Basti,Urban,munderwa np,3651,14948
+Basti,Urban,nagar bazaar np,4728,19533
+Basti,Urban,rudhauli bazar np,3168,13011
+Basti,Rural,BAHADURPUR,28088,120149
+Basti,Rural,BANKATI,28731,117355
+Basti,Rural,BASTI,34907,141200
+Basti,Rural,DUBAULIYA,21545,87541
+Basti,Rural,GAUR,38053,158745
+Basti,Rural,HARRAIYA,28125,114479
+Basti,Rural,KAPTANGANJ,17205,71342
+Basti,Rural,KUDARAHA,24565,94940
+Basti,Rural,PARASRAMPUR,34548,140742
+Basti,Rural,RAMNAGAR,28757,129028
+Basti,Rural,RUDHAULI,24331,101767
+Basti,Rural,SALTAUA GOPALPUR,34786,150507
+Basti,Rural,SAU GHAT,30135,126593
+Basti,Rural,VIKRAMJOT,26032,103105
+Bijnor,Urban,Afzalgarh (NPP),4521,21895
+Bijnor,Urban,Bijnor (NPP),19067,78259
+Bijnor,Urban,Chandpur (NPP),13273,54264
+Bijnor,Urban,Dhampur (NPP),5876,25060
+Bijnor,Urban,Haldaur (NPP),3221,12449
+Bijnor,Urban,Jalalabad (NP),3337,15844
+Bijnor,Urban,Jhalu (NP),4287,17704
+Bijnor,Urban,Kiratpur (NPP),11040,52100
+Bijnor,Urban,Mandawar (NP),4249,18480
+Bijnor,Urban,Nagina (NPP),12877,60487
+Bijnor,Urban,Najibabad (NPP),13333,56508
+Bijnor,Urban,Nehtaur (NPP),8430,40080
+Bijnor,Urban,Noorpur (NPP),5874,24689
+Bijnor,Urban,Sahanpur (NP),3672,16894
+Bijnor,Urban,Sahaspur (NP),3625,17963
+Bijnor,Urban,Seohara (NPP),6513,29485
+Bijnor,Urban,Sherkot (NPP),8108,37336
+Bijnor,Urban,Warhapur (NP),3964,17775
+Bijnor,Rural,AFZALGARH-6 [R],39106,162318
+Bijnor,Rural,ALLEHPUR-12 [R],43496,184453
+Bijnor,Rural,BUDHANPUR_SEOHARA-9 [R],32571,136741
+Bijnor,Rural,HALDAUR-4 [R],40431,168155
+Bijnor,Rural,JALILPUR-10 [R],49569,190820
+Bijnor,Rural,KIRATPUR-2 [R],33697,150499
+Bijnor,Rural,KOTWALI-5 [R],70836,308245
+Bijnor,Rural,MOHAMMEDPUR_DEOMAL-3 [R],49211,201200
+Bijnor,Rural,NAJIBABAD-1 [R],65118,286643
+Bijnor,Rural,NEHTAUR-7 [R],37598,163360
+Bijnor,Rural,NOORPUR-11 [R],54804,211828
+Budaun,Urban,Allapur (NP),3842,17440
+Budaun,Urban,Bilsi (NPP),3876,15510
+Budaun,Urban,Bisauli (NPP),4732,18550
+Budaun,Urban,Budaun (NPP),24851,99057
+Budaun,Urban,dahgawan,1865,6852
+Budaun,Urban,Dataganj (NP),4193,14550
+Budaun,Urban,Faizganj (NP),2101,8671
+Budaun,Urban,Gulariya (NP),849,2922
+Budaun,Urban,Islamnagar (NP),4872,20115
+Budaun,Urban,Kachhla (NP),1593,5985
+Budaun,Urban,Kakrala (NPP),6187,27287
+Budaun,Urban,Kunwargaon (NP),1260,4793
+Budaun,Urban,Mundiya (NP),975,3911
+Budaun,Urban,Rudayan (NP),1582,5930
+Budaun,Urban,Sahaswan (NPP),11030,43185
+Budaun,Urban,Saidpur (NP),2114,9521
+Budaun,Urban,Sakhanu (NP),1872,7977
+Budaun,Urban,Ujhani (NPP),9997,38452
+Budaun,Urban,Usawan (NP),2431,8596
+Budaun,Urban,Usehat (NP),2692,10002
+Budaun,Urban,Wazirganj (NP),3220,14023
+Budaun,Rural,AMBIAPUR,35515,142996
+Budaun,Rural,ASAFPUR,30008,116063
+Budaun,Rural,Bisauli Bilsi,30398,119327
+Budaun,Rural,DAHGAVAN,36182,148060
+Budaun,Rural,DATAGANJ,28627,111775
+Budaun,Rural,ISLAMNAGAR,25865,103140
+Budaun,Rural,JAGAT,37837,155953
+Budaun,Rural,MION,31113,122206
+Budaun,Rural,QADAR CHOWK,31753,120571
+Budaun,Rural,SALARPUR,32953,128754
+Budaun,Rural,SAMRER,27508,108705
+Budaun,Rural,SHAHSWAN,39394,155649
+Budaun,Rural,UJHANI,38904,153945
+Budaun,Rural,USAWAN,26428,99749
+Budaun,Rural,WAZIRGANJ,25920,106748
+Bulandshahar,Urban,Anupshahr (NPP),4152,16675
+Bulandshahar,Urban,Aurangabad (NP),4504,19823
+Bulandshahar,Urban,Bhawan Bahadur Nagar (NP),1583,6940
+Bulandshahar,Urban,Bugrasi (NP),2437,10964
+Bulandshahar,Urban,Bulandshahr (NPP),29560,125486
+Bulandshahar,Urban,Chhatari (NP),1961,8308
+Bulandshahar,Urban,Dibai (NPP),6370,27659
+Bulandshahar,Urban,Gulaothi (NPP),7323,32969
+Bulandshahar,Urban,Jahangirabad (NPP),8908,36544
+Bulandshahar,Urban,Kakod (NP),1357,5699
+Bulandshahar,Urban,Khanpur (NP),2816,12685
+Bulandshahar,Urban,Khurja (NPP),21966,93116
+Bulandshahar,Urban,Naraura (NP),2957,11559
+Bulandshahar,Urban,Pahasu (NP),3581,15716
+Bulandshahar,Urban,Shikarpur (NPP),7030,31250
+Bulandshahar,Urban,Siana (NPP),6687,31448
+Bulandshahar,Urban,Sikandrabad (NPP),12384,51695
+Bulandshahar,Rural,AGAUTA,23106,96212
+Bulandshahar,Rural,ANUPSHAHR,34445,138986
+Bulandshahar,Rural,ARANIYA,30761,121887
+Bulandshahar,Rural,BHAWAN BAHADUR NAGAR,17661,72154
+Bulandshahar,Rural,BULANDSHAHR,34923,150093
+Bulandshahar,Rural,DANPUR,35954,157940
+Bulandshahar,Rural,DIBAI,36935,163058
+Bulandshahar,Rural,GULAOTHI,17999,78489
+Bulandshahar,Rural,JAHANGIRABAD,28475,115065
+Bulandshahar,Rural,KHURJA,44440,179903
+Bulandshahar,Rural,LAKHAOTI,21053,86421
+Bulandshahar,Rural,PAHASU,37200,156740
+Bulandshahar,Rural,SHIKARPUR,28708,121813
+Bulandshahar,Rural,Sikandrabad,50839,206838
+Bulandshahar,Rural,SYANA,20694,85036
+Bulandshahar,Rural,UNCHAGAON,30107,125102
+Chandauli,Urban,Chakia (NP),2611,11088
+Chandauli,Urban,Chandauli (NP),3106,12960
+Chandauli,Urban,Mughalsarai (NPP),17788,78616
+Chandauli,Urban,Mughalsarai Railway Settlement (ITS),0,0
+Chandauli,Urban,Saiyad Raza (NP),2653,12489
+Chandauli,Rural,BARHANI,31850,134964
+Chandauli,Rural,CHAHANIYA,37524,155483
+Chandauli,Rural,CHAKIYA,37209,143462
+Chandauli,Rural,CHANDAULI,36086,147305
+Chandauli,Rural,NAUGARH,19435,63719
+Chandauli,Rural,NIYAMATABAD,53195,226449
+Chandauli,Rural,SAKALDIHA,48350,197156
+Chandauli,Rural,SHAHABGANJ,30322,117879
+Chandauli,Rural,THANAPUR,39313,160352
+Chitrakoot,Urban,Chitrakoot Dham (Karwi) (NPP),11590,46011
+Chitrakoot,Urban,Manikpur Sarhat (NP),2931,12065
+Chitrakoot,Urban,mau np,2919,12165
+Chitrakoot,Urban,Rajapur (NP),4013,17808
+Chitrakoot,Rural,KARWI,53391,212602
+Chitrakoot,Rural,MANIKPUR,36943,147189
+Chitrakoot,Rural,MAU,31183,127615
+Chitrakoot,Rural,PAHARI,41755,175426
+Chitrakoot,Rural,RAMNAGAR,21112,87568
+Deoria,Urban,baitalpur np,3798,15159
+Deoria,Urban,bariyarpur np,2817,11653
+Deoria,Urban,bhaluani np,3468,14200
+Deoria,Urban,Bhatni Bazar (NP),2220,9611
+Deoria,Urban,Bhatpar Rani (NP),2298,8609
+Deoria,Urban,Deoria (NPP),26180,104771
+Deoria,Urban,Gaura Barhaj (NPP),7409,28965
+Deoria,Urban,Gauri Bazar (NP),1011,4063
+Deoria,Urban,hetimpur np,3184,12074
+Deoria,Urban,Lar (NP),5157,20251
+Deoria,Urban,madanpur np,4651,17457
+Deoria,Urban,Majhauliraj (NP),3498,13201
+Deoria,Urban,pathardeva np,3634,14153
+Deoria,Urban,Rampur Karkhana (NP),2002,7419
+Deoria,Urban,Rudrapur (NP),5493,20852
+Deoria,Urban,Salempur (NP),2973,11700
+Deoria,Urban,tarkulwa np,3791,15189
+Deoria,Rural,BAITALPUR,35962,154040
+Deoria,Rural,BANKATA,35750,153653
+Deoria,Rural,BARHAJ,23684,93645
+Deoria,Rural,BHAGALPUR,24839,103361
+Deoria,Rural,BHALAUNI,33374,138221
+Deoria,Rural,BHATNI,31905,130271
+Deoria,Rural,BHATPAR RANI,32102,133619
+Deoria,Rural,DEORIA,34962,146062
+Deoria,Rural,DESAI DEORIA,22047,94406
+Deoria,Rural,GAURI BAZARA,46008,186749
+Deoria,Rural,LAR,29701,118851
+Deoria,Rural,PATHARDEWA,29097,126485
+Deoria,Rural,RAMPUR KARKHANA,26093,108150
+Deoria,Rural,RUDRAPUR,30401,124623
+Deoria,Rural,SALEMPUR,35004,139590
+Deoria,Rural,TARKULWA,18945,77917
+Etah,Urban,Aliganj (NPP),4479,20321
+Etah,Urban,Awagarh (NP),1465,5876
+Etah,Urban,Etah (NPP),15166,64907
+Etah,Urban,Jaithara (NP),1562,7018
+Etah,Urban,Jalesar (NPP),5597,25015
+Etah,Urban,Marehra (NPP),4108,18655
+Etah,Urban,mirhachi np,4303,19312
+Etah,Urban,Nidhauli Kalan (NP),1442,6092
+Etah,Urban,Raja Ka Rampur (NP),1691,7256
+Etah,Urban,Sakit (NP),1393,6297
+Etah,Rural,ALIGANJ,44096,184264
+Etah,Rural,AWAGARH,28732,113627
+Etah,Rural,JAITHARA,34769,141359
+Etah,Rural,JALESAR,28326,111803
+Etah,Rural,MAREHRA,25184,108607
+Etah,Rural,NIDHAULI KALAN,34730,134002
+Etah,Rural,SAKIT,38183,156725
+Etah,Rural,SHITALPUR,47549,191336
+Etawah,Urban,Bakewar (NP),2360,8835
+Etawah,Urban,Bharthana (NPP),6156,23138
+Etawah,Urban,Ekdil (NP),2965,11842
+Etawah,Urban,Etawah (NPP),37349,142632
+Etawah,Urban,Jaswantnagar (NPP),4284,17306
+Etawah,Urban,Lakhna (NP),1571,5465
+Etawah,Rural,BADPURA,30364,114883
+Etawah,Rural,BASREHAR,33415,128720
+Etawah,Rural,BHARTHANA,33922,117584
+Etawah,Rural,CHAKKARNAGAR,15915,56638
+Etawah,Rural,JASWANTNGAR,33022,128925
+Etawah,Rural,MAHEWA,43777,159772
+Etawah,Rural,SAIFAI,20256,77108
+Etawah,Rural,TAKHA,26822,96465
+Farrukhabad,Urban,Farrukhabad-cum-Fatehgarh (NPP),46794,180954
+Farrukhabad,Urban,Fatehgarh (CB),0,0
+Farrukhabad,Urban,Kaimganj (NPP),5545,20344
+Farrukhabad,Urban,Kamalganj (NP),2158,8415
+Farrukhabad,Urban,Kampil (NP),2514,8984
+Farrukhabad,Urban,khimsepur np,5026,17857
+Farrukhabad,Urban,Mohammadabad (NP),4211,15011
+Farrukhabad,Urban,nawabganj np,5062,18984
+Farrukhabad,Urban,sankisa np,3986,14877
+Farrukhabad,Urban,Shamsabad (NP),8911,35204
+Farrukhabad,Rural,BARHPUR,33839,127248
+Farrukhabad,Rural,KAIMGANJ,45176,174779
+Farrukhabad,Rural,KAMALGANJ,55416,224695
+Farrukhabad,Rural,MOHAMMADABAD,39520,149708
+Farrukhabad,Rural,NAWABGAJ,27335,101425
+Farrukhabad,Rural,RAJEPUR,41683,160432
+Farrukhabad,Rural,SHAMSHABAD,38281,143250
+Fatehpur,Urban,asothar np,4496,16847
+Fatehpur,Urban,Bahuwa (NP),1865,6993
+Fatehpur,Urban,Bindki (NPP),5553,19167
+Fatehpur,Urban,dhata np,5137,18011
+Fatehpur,Urban,Fatehpur (NPP),30802,116350
+Fatehpur,Urban,Hathgram (NP),2011,7313
+Fatehpur,Urban,Khaga (NP),11125,42505
+Fatehpur,Urban,khakhreru np,3827,13916
+Fatehpur,Urban,Kishu(NP)ur (NP),1367,4878
+Fatehpur,Urban,Kora Jahanabad (NP),5742,21337
+Fatehpur,Rural,AIRAYAN,32619,126507
+Fatehpur,Rural,AMAULI,31196,111645
+Fatehpur,Rural,ASHOTHAR,28577,112290
+Fatehpur,Rural,BAHUA,35102,132414
+Fatehpur,Rural,BHITAURA,42134,156907
+Fatehpur,Rural,DEVMAI,26487,93098
+Fatehpur,Rural,DHATA,30777,117608
+Fatehpur,Rural,HASWA,40980,151752
+Fatehpur,Rural,HATHGAON,40890,155336
+Fatehpur,Rural,KHAJUHA,37058,138063
+Fatehpur,Rural,MALWAN,43102,159423
+Fatehpur,Rural,TELIYANI,29234,109962
+Fatehpur,Rural,VIJAIPUR,33030,127495
+Firozabad,Urban,eka np,5000,19325
+Firozabad,Urban,Fariha (NP),1281,5236
+Firozabad,Urban,Firozabad (NPP),124752,524597
+Firozabad,Urban,Jasrana (NP),1724,7082
+Firozabad,Urban,makkhanpur np,4249,16768
+Firozabad,Urban,Shikohabad (NPP),16016,67972
+Firozabad,Urban,Sirsaganj (NPP),4424,18053
+Firozabad,Urban,Tundla (NPP),5924,22001
+Firozabad,Rural,ARAON,27806,107339
+Firozabad,Rural,EKA,31361,114252
+Firozabad,Rural,FIROZABAD,46472,182650
+Firozabad,Rural,JASRANA,24231,92519
+Firozabad,Rural,KHAIRGARH,31860,129864
+Firozabad,Rural,MADANPUR,37017,137801
+Firozabad,Rural,NARKHI,40704,152742
+Firozabad,Rural,SHIKOHABAD,35401,140248
+Firozabad,Rural,TUNDLIA,47643,184932
+Gautam Buddha Nagar,Urban,Bilaspur (NP),1266,5455
+Gautam Buddha Nagar,Urban,Dadri (NPP),13368,59064
+Gautam Buddha Nagar,Urban,Dankaur (NP),1741,6860
+Gautam Buddha Nagar,Urban,Gr. Noida,48934,203796
+Gautam Buddha Nagar,Urban,Jahangirpur (NP),1980,7560
+Gautam Buddha Nagar,Urban,Jewar (NP),6275,28519
+Gautam Buddha Nagar,Urban,Noida,44292,183415
+Gautam Buddha Nagar,Urban,Rabupura (NP),2742,11208
+Gautam Buddha Nagar,Urban,yamuna pradhikaran,36838,147209
+Gautam Buddha Nagar,Rural,BISRAKH,12982,54814
+Gautam Buddha Nagar,Rural,DADARI,15024,60578
+Gautam Buddha Nagar,Rural,DANKAUR,0,0
+Gautam Buddha Nagar,Rural,JEWAR,9047,33969
+Ghaziabad,Urban,Dasna (NP),6597,33100
+Ghaziabad,Urban,Faridnagar (NP),2238,11962
+Ghaziabad,Urban,Ghaziabad (M Corp.),188779,804820
+Ghaziabad,Urban,Khora Makanpur(NPP),18248,75175
+Ghaziabad,Urban,Loni (NPP),83170,368604
+Ghaziabad,Urban,Modinagar (NPP),32685,133037
+Ghaziabad,Urban,Muradnagar (NPP),18787,85792
+Ghaziabad,Urban,Niwari (NP),1440,6105
+Ghaziabad,Urban,Patala (NP),1430,6075
+Ghaziabad,Rural,BHOJPUR-1 [R],29372,129665
+Ghaziabad,Rural,LONI-4 [R],10367,44594
+Ghaziabad,Rural,MURADNAGAR-2 [R],23944,106092
+Ghaziabad,Rural,RAJAPUR-3 [R],32595,149455
+Ghazipur,Urban,Bahadurganj (NP),2978,13719
+Ghazipur,Urban,Dildarnagar Fatehpur Bazar (NP),2004,8258
+Ghazipur,Urban,Ghazipur (NPP),14805,61193
+Ghazipur,Urban,Jangipur (NP),1840,8004
+Ghazipur,Urban,Mohammadabad (NPP),5453,23936
+Ghazipur,Urban,Sadat (NP),2188,9339
+Ghazipur,Urban,Saidpur (NP),3679,15965
+Ghazipur,Urban,Zamania (NPP),5239,23329
+Ghazipur,Rural,BHADAURA,39421,164522
+Ghazipur,Rural,BHANWARKOL,34414,140497
+Ghazipur,Rural,DEOKALI,41725,174735
+Ghazipur,Rural,GHAZIPUR,38654,162077
+Ghazipur,Rural,JAKHANIA,42503,174924
+Ghazipur,Rural,KARANDA,27572,109862
+Ghazipur,Rural,KASIMABAD,44568,195040
+Ghazipur,Rural,MANIHARI,40693,167074
+Ghazipur,Rural,MARDAH,33429,145420
+Ghazipur,Rural,MOHAMMADABAD,40355,169311
+Ghazipur,Rural,REVATIPUR,32019,131676
+Ghazipur,Rural,SADAT,38414,159356
+Ghazipur,Rural,SAIDPUR,44200,194913
+Ghazipur,Rural,VARACHAVAR,37513,161238
+Ghazipur,Rural,VIRNO,29308,124987
+Ghazipur,Rural,ZAMANIA,45437,191712
+Gonda,Urban,belsar np,4870,21255
+Gonda,Urban,Colonelganj (NPP),4130,19887
+Gonda,Urban,dhanepur np,4321,17719
+Gonda,Urban,Gonda (NPP),15321,65923
+Gonda,Urban,Katra (NP),3652,16406
+Gonda,Urban,Khargupur (NP),1502,6400
+Gonda,Urban,Mankapur (NP),1281,5552
+Gonda,Urban,Nawabganj (NPP),2284,9971
+Gonda,Urban,paraspur np,0,0
+Gonda,Urban,tarabganj np,3464,14286
+Gonda,Rural,BABHANJOT,38555,178464
+Gonda,Rural,BELSAR,31778,135870
+Gonda,Rural,CHHAPIA,35435,151878
+Gonda,Rural,COLONELGANJ,32398,135902
+Gonda,Rural,HALDHARMAU,31062,133790
+Gonda,Rural,ITIA THOK,36509,157554
+Gonda,Rural,JHANJHARI,43281,182573
+Gonda,Rural,KATRA BAZAR,36470,158015
+Gonda,Rural,MANKAPUR,41101,179592
+Gonda,Rural,MUJEHANA,33866,148245
+Gonda,Rural,NAWABGANJ,31858,129521
+Gonda,Rural,PANDRI KRIPAL,23173,98079
+Gonda,Rural,PARASPUR,44678,187704
+Gonda,Rural,RUPAIDIH,45005,194016
+Gonda,Rural,TARABGANJ,24840,102879
+Gonda,Rural,WAZIRGANJ,31815,134889
+Gorakhpur,Urban,Bansgaon (NP),2285,9246
+Gorakhpur,Urban,Barhalganj (NP),4614,19268
+Gorakhpur,Urban,chaumukha np,4551,15576
+Gorakhpur,Urban,ghaghsara np,4312,16685
+Gorakhpur,Urban,Gola Bazar (NP),8414,31858
+Gorakhpur,Urban,Gorakhpur (M Corp.),111144,421553
+Gorakhpur,Urban,kasba sangrampur urf unwal,3290,13563
+Gorakhpur,Urban,Mundera Bazar (NP),5307,19823
+Gorakhpur,Urban,Pipiganj (NP),8335,30728
+Gorakhpur,Urban,Pipraich (NP),6532,25134
+Gorakhpur,Urban,Sahjanwan (NP),5147,20442
+Gorakhpur,Urban,uruwa bazar np,3957,16441
+Gorakhpur,Rural,BANSGAON,29250,117738
+Gorakhpur,Rural,BARHALGANJ,28306,109617
+Gorakhpur,Rural,BELGHAT,36050,144178
+Gorakhpur,Rural,bharohiya,21435,84405
+Gorakhpur,Rural,BHATHAT,37341,144840
+Gorakhpur,Rural,BRAHAMPUR,39448,150326
+Gorakhpur,Rural,CAMPEARGANJ,43791,167211
+Gorakhpur,Rural,CHARGAWAN,34307,129835
+Gorakhpur,Rural,GAGHA,35732,135692
+Gorakhpur,Rural,GOLA,23726,91394
+Gorakhpur,Rural,JANGAL KAUDIA,22259,87838
+Gorakhpur,Rural,KAURIRAM,33686,133135
+Gorakhpur,Rural,KHAJNI,34862,135764
+Gorakhpur,Rural,KHORABAR,30762,125283
+Gorakhpur,Rural,PALI,22391,91317
+Gorakhpur,Rural,PIPRAICH,34412,138753
+Gorakhpur,Rural,PIPRAULI,36684,153341
+Gorakhpur,Rural,SADARNAGAR,34486,131562
+Gorakhpur,Rural,SAHJANWA,27640,112416
+Gorakhpur,Rural,URUWA,33511,132771
+Hamirpur,Urban,Gohand (NP),1660,5452
+Hamirpur,Urban,Hamirpur (NPP),7897,29245
+Hamirpur,Urban,Kurara (NP),2376,8946
+Hamirpur,Urban,Maudaha (NPP),7453,28549
+Hamirpur,Urban,Rath (NPP),13590,52960
+Hamirpur,Urban,Sarila (NP),2183,7695
+Hamirpur,Urban,Sumerpur (NP),7006,28447
+Hamirpur,Rural,GOHAND,26676,99958
+Hamirpur,Rural,KUKARA,20405,77496
+Hamirpur,Rural,MAUDAHA,34253,135439
+Hamirpur,Rural,MUSKRA,29745,114893
+Hamirpur,Rural,RATH,23773,89024
+Hamirpur,Rural,SARILA,25877,95779
+Hamirpur,Rural,SUMERPUR,36886,141292
+Hapur,Urban,Babugarh (NP),707,2581
+Hapur,Urban,Garhmukhteshwar (NPP),7035,31674
+Hapur,Urban,Hapur (NPP),34411,156442
+Hapur,Urban,Pilkhuwa (NPP),14154,63166
+Hapur,Rural,DHAULANA-5 [R],40248,184488
+Hapur,Rural,GARH_MUKTESHWAR-10,35619,156932
+Hapur,Rural,HAPUR-8 [R],54299,241431
+Hapur,Rural,SIMBHAWALI-9 [R],34170,150021
+Hardoi,Urban,Beniganj (NP),1821,7991
+Hardoi,Urban,Bilgram (NPP),5133,21923
+Hardoi,Urban,Gopamau (NP),2974,13551
+Hardoi,Urban,Hardoi (NPP),20231,83742
+Hardoi,Urban,Kachhauna Patseni (NP),2592,10398
+Hardoi,Urban,Kursath (NP),989,4271
+Hardoi,Urban,Madhoganj (NP),1985,8376
+Hardoi,Urban,Mallawan (NPP),6414,29586
+Hardoi,Urban,Pali (NP),3574,15048
+Hardoi,Urban,Pihani (NPP),6221,26991
+Hardoi,Urban,Sandi (NPP),4739,19510
+Hardoi,Urban,Sandila (NPP),10600,46780
+Hardoi,Urban,Shahabad (NPP),18491,73903
+Hardoi,Rural,AHIRORI,47307,178984
+Hardoi,Rural,BAWAN,50484,185933
+Hardoi,Rural,BEHANDER,30768,120455
+Hardoi,Rural,BHARAWAN,37034,146870
+Hardoi,Rural,BHARKHANI,40083,154668
+Hardoi,Rural,BILGRAM,43143,168183
+Hardoi,Rural,HARIYAWAN,37937,147487
+Hardoi,Rural,HARPALPUR,33403,131258
+Hardoi,Rural,KACHAUNA,31431,118931
+Hardoi,Rural,KOTHAWAN,34266,130492
+Hardoi,Rural,MADHOGANJ,34622,134400
+Hardoi,Rural,MALLAWAN,23890,89551
+Hardoi,Rural,PIHANI,41615,153622
+Hardoi,Rural,SANDI,31576,126924
+Hardoi,Rural,SANDILA,37375,152321
+Hardoi,Rural,SHAHABAD,33064,124259
+Hardoi,Rural,SURSA,48572,181474
+Hardoi,Rural,TANDIYAWAN,42906,163481
+Hardoi,Rural,TONDERPUR,35399,134975
+Hathras,Urban,Hasayan (NP),1085,4116
+Hathras,Urban,Hathras (NPP),35175,136967
+Hathras,Urban,Mendu (NP),2806,11447
+Hathras,Urban,Mursan (NP),1975,7906
+Hathras,Urban,Purdilnagar (NP),3568,14836
+Hathras,Urban,Sadabad (NP),5840,24327
+Hathras,Urban,Sahpau (NP),2010,8255
+Hathras,Urban,Sasni (NP),2128,8477
+Hathras,Urban,Sikandrarao (NPP),7238,29630
+Hathras,Rural,HASAYAN,33318,128651
+Hathras,Rural,HATHRAS,31551,129273
+Hathras,Rural,MURSAN,31650,127338
+Hathras,Rural,SADABAD,37623,139246
+Hathras,Rural,SAHPAU,24600,92732
+Hathras,Rural,SASNI,43649,163547
+Hathras,Rural,SIKANDRA RAO,28952,113320
+Jalaun,Urban,ait np,2531,9620
+Jalaun,Urban,Jalaun (NPP),9405,36649
+Jalaun,Urban,Kadaura (NP),2450,9284
+Jalaun,Urban,Kalpi (NPP),9062,35927
+Jalaun,Urban,Konch (NPP),8719,35225
+Jalaun,Urban,Kotra (NP),1359,5061
+Jalaun,Urban,Madhogarh (NP),2351,9354
+Jalaun,Urban,Nadigaon (NP),1204,4489
+Jalaun,Urban,Orai (NPP),26807,104678
+Jalaun,Urban,Rampura (NP),2312,8560
+Jalaun,Urban,Umri (NP),1568,6024
+Jalaun,Rural,Dakore,34520,129791
+Jalaun,Rural,Jalaun,24687,88461
+Jalaun,Rural,Kadaura,34121,136492
+Jalaun,Rural,Konch,21032,77471
+Jalaun,Rural,Kuthond,28023,103682
+Jalaun,Rural,Madhaugarh,24583,93219
+Jalaun,Rural,Mahewa,21644,82600
+Jalaun,Rural,Nadigaon,29492,112082
+Jalaun,Rural,Rampura,18072,68814
+Jaunpur,Urban,badlapur np,3494,14644
+Jaunpur,Urban,gaura badshahpur np,3935,16721
+Jaunpur,Urban,Jafarabad (NP),1785,7696
+Jaunpur,Urban,Jaunpur (NPP),39824,167983
+Jaunpur,Urban,kachgaon np,986,4300
+Jaunpur,Urban,Kerakat (NP),2237,9909
+Jaunpur,Urban,Khetasarai (NP),3072,12432
+Jaunpur,Urban,Machhlishahr (NP),4361,18680
+Jaunpur,Urban,Mariahu (NP),3614,15716
+Jaunpur,Urban,Mogra Badshahpur (NPP),6730,25784
+Jaunpur,Urban,rampur np,2492,10035
+Jaunpur,Urban,Shahganj (NPP),3490,14698
+Jaunpur,Rural,BADLAPUR,39873,167924
+Jaunpur,Rural,BAKSHA,39229,160164
+Jaunpur,Rural,BARSATHI,37482,153224
+Jaunpur,Rural,DHARMAPUR,17362,73293
+Jaunpur,Rural,DOBHI,32476,140429
+Jaunpur,Rural,JALALPUR,32490,135187
+Jaunpur,Rural,KARANJAKALA,41551,174541
+Jaunpur,Rural,KERAKAT,35166,145244
+Jaunpur,Rural,KHUTHAN,40152,165963
+Jaunpur,Rural,MACHHLISHAHR,44176,177059
+Jaunpur,Rural,MAHRAJGANJ,33070,130508
+Jaunpur,Rural,MARIYAHUN,39595,168132
+Jaunpur,Rural,MUFTIGANJ,24655,105294
+Jaunpur,Rural,MUGRA BADSHAHPUR,34996,136372
+Jaunpur,Rural,RAMNAGAR,42300,176707
+Jaunpur,Rural,RAMPUR,39517,164707
+Jaunpur,Rural,SHAHGANJ,55115,220532
+Jaunpur,Rural,SIKRARA,32849,131132
+Jaunpur,Rural,SIRKONI,31435,131797
+Jaunpur,Rural,SUITHKALA,34886,138100
+Jaunpur,Rural,SUJANGANJ,41227,170000
+Jhansi,Urban,Babina (CB),2922,11808
+Jhansi,Urban,Baragaon (NP),1844,7494
+Jhansi,Urban,Barua Sagar (NPP),4958,19533
+Jhansi,Urban,Chirgaon (NPP),2702,11088
+Jhansi,Urban,Erich (NP),1757,7125
+Jhansi,Urban,Garautha (NP),1909,6906
+Jhansi,Urban,Gursarai (NPP),4619,16073
+Jhansi,Urban,Jhansi (CB),0,0
+Jhansi,Urban,Jhansi (M Corp.),79131,304274
+Jhansi,Urban,Jhansi Railway Settlement (ITS),0,0
+Jhansi,Urban,Kathera (NP),1871,7197
+Jhansi,Urban,Mauranipur (NPP),11276,41747
+Jhansi,Urban,Moth (NP),2104,7972
+Jhansi,Urban,Ranipur (NP),3989,14970
+Jhansi,Urban,Samthar (NPP),3980,15833
+Jhansi,Urban,Tondi Fatehpur (NP),2480,9369
+Jhansi,Rural,BABINA-7 [R],33718,131125
+Jhansi,Rural,BADAGAON-8 [R],22679,86996
+Jhansi,Rural,BAMAUR-3 [R],27571,98688
+Jhansi,Rural,BANGRA-5 [R],37649,145928
+Jhansi,Rural,CHIRGAON-2 [R],29574,111784
+Jhansi,Rural,GURSARAI-4 [R],31005,110923
+Jhansi,Rural,MAURANIPUR-6 [R],40157,151085
+Jhansi,Rural,MOTH-1 [R],30292,123045
+Kannauj,Urban,Chhibramau (NPP),8414,32316
+Kannauj,Urban,Gursahaiganj (NPP),7163,25895
+Kannauj,Urban,Kannauj (NPP),15815,61806
+Kannauj,Urban,Samdhan (NP),5618,26184
+Kannauj,Urban,Saurikh (NP),1607,6183
+Kannauj,Urban,Sikanderpur (NP),1402,5761
+Kannauj,Urban,Talgram (NP),2144,8651
+Kannauj,Urban,Tirwaganj (NP),3447,12883
+Kannauj,Rural,CHHIBRAMAU,47115,182098
+Kannauj,Rural,GUGRAPUR,14313,55167
+Kannauj,Rural,HASERAN,24167,93114
+Kannauj,Rural,JALALABAD,21856,81191
+Kannauj,Rural,KANNAUJ,42143,160355
+Kannauj,Rural,SAURIKH,33585,130759
+Kannauj,Rural,TALGRAM,39008,147319
+Kannauj,Rural,UMARDA,61170,230282
+Kanpur Dehat,Urban,Akbarpur (NP),7987,29409
+Kanpur Dehat,Urban,Amraudha (NP),2125,8534
+Kanpur Dehat,Urban,Derapur (NP),1247,4516
+Kanpur Dehat,Urban,Jhinjhak (NP),4680,19273
+Kanpur Dehat,Urban,kanchausi np,1272,4865
+Kanpur Dehat,Urban,musanagar np,4505,17862
+Kanpur Dehat,Urban,Pukhrayan (NPP),7996,31545
+Kanpur Dehat,Urban,rajpur np,3676,12979
+Kanpur Dehat,Urban,rania np,5845,22295
+Kanpur Dehat,Urban,Rasulabad (NP),3953,15216
+Kanpur Dehat,Urban,Rura (NP),2821,10471
+Kanpur Dehat,Urban,Shivli (NP),1517,5374
+Kanpur Dehat,Urban,Sikandra (NP),2601,9719
+Kanpur Dehat,Rural,AKBARPUR,29081,107986
+Kanpur Dehat,Rural,AMRODHA,30627,117373
+Kanpur Dehat,Rural,DERAPUR,24214,91147
+Kanpur Dehat,Rural,JHINJHAK,27607,107971
+Kanpur Dehat,Rural,MALASA,30424,114062
+Kanpur Dehat,Rural,MIAITHA,36743,135069
+Kanpur Dehat,Rural,RAJPUR,26769,95070
+Kanpur Dehat,Rural,RASULABAD,42434,154833
+Kanpur Dehat,Rural,SANDALPUR,24816,90919
+Kanpur Dehat,Rural,SARVANKHEDA,27774,101066
+Kanpur Nagar,Urban,Bilhaur (NPP),4268,16395
+Kanpur Nagar,Urban,Bithoor (NP),2328,8887
+Kanpur Nagar,Urban,Ghatampur (NPP),7858,28903
+Kanpur Nagar,Urban,Kanpur (CB),0,0
+Kanpur Nagar,Urban,Kanpur (M Corp.),446472,1593861
+Kanpur Nagar,Urban,Shivrajpur (NP),2195,7632
+Kanpur Nagar,Rural,BHITARGAON,36986,130613
+Kanpur Nagar,Rural,BIDHAUN,38968,142910
+Kanpur Nagar,Rural,BILHAUR,39592,139914
+Kanpur Nagar,Rural,CHAUBEYPUR,30259,108532
+Kanpur Nagar,Rural,GHATAMPUR,45359,156336
+Kanpur Nagar,Rural,Kakwan,14616,52237
+Kanpur Nagar,Rural,KALAYANPUR,36834,136400
+Kanpur Nagar,Rural,PATARA,32430,112133
+Kanpur Nagar,Rural,SARSAUL,39933,144225
+Kanpur Nagar,Rural,SHIVRAJPUR,28106,100551
+Kasganj,Urban,Amanpur (NP),1700,7382
+Kasganj,Urban,Bhargain (NP),2078,8764
+Kasganj,Urban,Bilram (NP),2206,9132
+Kasganj,Urban,Ganj Dundawara (NPP),6273,28804
+Kasganj,Urban,Kasganj (NPP),13275,51253
+Kasganj,Urban,Mohanpur (NP),771,3534
+Kasganj,Urban,Patiyali (NP),1947,8655
+Kasganj,Urban,Sahawar (NP),4007,18289
+Kasganj,Urban,Sidhpura (NP),2356,10422
+Kasganj,Urban,Soron (NPP),4687,18383
+Kasganj,Rural,AMANPUR,29339,116381
+Kasganj,Rural,GANJDUNDWARA,32117,136807
+Kasganj,Rural,KASGANJ,41281,153960
+Kasganj,Rural,PATIYALI,23286,93999
+Kasganj,Rural,SAHAWAR,26544,112011
+Kasganj,Rural,SIDHPURA,25725,100916
+Kasganj,Rural,SORON,41743,158288
+Kaushambi,Urban,Ajhuwa (NP),2853,11413
+Kaushambi,Urban,Bharwari (NP),17442,70233
+Kaushambi,Urban,Chail (NP),1952,7130
+Kaushambi,Urban,charwa np,4560,17466
+Kaushambi,Urban,daranagar np,5349,22309
+Kaushambi,Urban,Karari (NP),2656,12332
+Kaushambi,Urban,Manjhanpur (NP),10499,44905
+Kaushambi,Urban,purab paschim sharira np,4468,17736
+Kaushambi,Urban,Sarai Aquil (NP),3389,14488
+Kaushambi,Urban,Sirathu (NP),2212,9484
+Kaushambi,Rural,CHAIL,15267,59812
+Kaushambi,Rural,KARA,33461,139007
+Kaushambi,Rural,KAUSHAMBI,33955,140865
+Kaushambi,Rural,MANJHANPUR,29103,119214
+Kaushambi,Rural,MURATGANJ,27469,110976
+Kaushambi,Rural,NEWADA,36520,148851
+Kaushambi,Rural,SARSAWAN,31691,125121
+Kaushambi,Rural,SIRATHU,43477,176309
+Kheri,Urban,Barwar (NP),3357,13758
+Kheri,Urban,bhira np,4067,15188
+Kheri,Urban,Dhaurehra (NP),4818,21603
+Kheri,Urban,Gola Gokaran Nath (NPP),10055,36675
+Kheri,Urban,Kheri (NP),7490,31752
+Kheri,Urban,Lakhimpur (NPP),23876,88175
+Kheri,Urban,Mailani (NP),2416,8293
+Kheri,Urban,Mohammadi (NPP),9096,37537
+Kheri,Urban,nighasan np,5068,17842
+Kheri,Urban,Oel Dhakwa (NP),2503,10031
+Kheri,Urban,Paliya Kalan (NPP),8403,29432
+Kheri,Urban,Singahi Bhiraura (NP),3781,13157
+Kheri,Rural,BANKEGANJ,49056,178454
+Kheri,Rural,BEHJAM,44865,158055
+Kheri,Rural,BIJUA,49369,164889
+Kheri,Rural,DAURAHARA,36022,139641
+Kheri,Rural,ISANAGAR,49020,182137
+Kheri,Rural,KUMBHIGOLA,51982,188153
+Kheri,Rural,LAKHIMPUR,69564,246174
+Kheri,Rural,MITOLI,53589,173313
+Kheri,Rural,MOHAMMADI,49815,182895
+Kheri,Rural,NAKAHA,44778,166447
+Kheri,Rural,NIGHASAN,66828,232559
+Kheri,Rural,PALIA,51836,173679
+Kheri,Rural,PASGAWAN,58201,206061
+Kheri,Rural,PHOOLBEHAR,52457,200293
+Kheri,Rural,RAMIA BEHAR,54096,203089
+Kushinagar,Urban,chhitauni,4289,14732
+Kushinagar,Urban,dudahi,3283,12073
+Kushinagar,Urban,fazilnagar,3646,13915
+Kushinagar,Urban,Hata (NP),17859,64416
+Kushinagar,Urban,Kaptanganj (NP),4323,15214
+Kushinagar,Urban,Khadda (NP),2603,9659
+Kushinagar,Urban,Kushinagar (NP),23462,86660
+Kushinagar,Urban,mathauli,5258,18688
+Kushinagar,Urban,Padrauna (NPP),18055,68117
+Kushinagar,Urban,Ramkola (NP),13270,45547
+Kushinagar,Urban,Sewarhi (NP),6977,25795
+Kushinagar,Urban,sukrauli,4649,16131
+Kushinagar,Urban,tamkuhiraj,3505,13302
+Kushinagar,Rural,DUDHAHI,55946,219633
+Kushinagar,Rural,FAJILNAGAR,38752,150307
+Kushinagar,Rural,HATA,25357,99586
+Kushinagar,Rural,KAPTANGANJ,41783,158015
+Kushinagar,Rural,KASYA,16337,64103
+Kushinagar,Rural,KHADDA,44764,173139
+Kushinagar,Rural,MOTICHAK,35489,136860
+Kushinagar,Rural,NEBUA NAURANGIYA,43984,184030
+Kushinagar,Rural,PADRAUNA,63101,255280
+Kushinagar,Rural,RAMKOLA,38831,147420
+Kushinagar,Rural,SEVARHI,49853,206717
+Kushinagar,Rural,SUKRAULI,33407,128390
+Kushinagar,Rural,TAMKUHIGAR RAJ,50759,194458
+Kushinagar,Rural,VISHUNPURA,50590,189305
+Lalitpur,Urban,Lalitpur (NPP),25427,92947
+Lalitpur,Urban,Mahroni (NP),2908,10774
+Lalitpur,Urban,Pali (NP),1958,6957
+Lalitpur,Urban,Talbehat (NP),2275,8232
+Lalitpur,Rural,BAR,36693,132619
+Lalitpur,Rural,BIRDHA,44613,157233
+Lalitpur,Rural,JAKHAURA,49021,169048
+Lalitpur,Rural,MADAWRA,32120,111348
+Lalitpur,Rural,MEHRONI,35830,125726
+Lalitpur,Rural,TALBEHAT,37544,128364
+Lucknow,Urban,Amethi (NP),2987,13219
+Lucknow,Urban,Bakshi Ka Talab (NP),9842,40610
+Lucknow,Urban,banthra np,4334,16965
+Lucknow,Urban,Gosainganj (NP),1702,6885
+Lucknow,Urban,Itaunja (NP),1498,6256
+Lucknow,Urban,Kakori (NP),4491,18557
+Lucknow,Urban,Lucknow (CB),0,0
+Lucknow,Urban,Lucknow (M Corp.),447281,1831012
+Lucknow,Urban,Mahona (NP),1771,8101
+Lucknow,Urban,Malihabad (NP),5139,21581
+Lucknow,Urban,mohanlalganj np,5028,20230
+Lucknow,Urban,Nagram (NP),2468,9855
+Lucknow,Rural,BAKSHI KA TALAB,44648,182858
+Lucknow,Rural,CHINHAT,8596,36742
+Lucknow,Rural,GOSAIGANJ,40448,153665
+Lucknow,Rural,KAKORI,25227,101681
+Lucknow,Rural,MALIHABAD,36559,143652
+Lucknow,Rural,MALL,36735,136480
+Lucknow,Rural,MOHANLAL GANJ,48068,167295
+Lucknow,Rural,SAROJINI NAGAR,29538,108598
+Mahoba,Urban,Charkhari (NPP),5630,20829
+Mahoba,Urban,Kabrai (NP),5971,24124
+Mahoba,Urban,Kharela (NP),3061,11891
+Mahoba,Urban,Kul Pahar (NP),4299,16574
+Mahoba,Urban,Mahoba (NPP),15749,64642
+Mahoba,Rural,CHARKHARI,28007,107784
+Mahoba,Rural,JAITPUR,35887,142374
+Mahoba,Rural,KABRAI,58484,230534
+Mahoba,Rural,PANWARI,35141,129512
+Mahrajganj,Urban,Anandnagar (NP),6884,27762
+Mahrajganj,Urban,brajmanganj np,1654,6446
+Mahrajganj,Urban,chauk np,3972,15189
+Mahrajganj,Urban,Ghughuli (NP),1987,7660
+Mahrajganj,Urban,Maharajganj (NPP),10101,39042
+Mahrajganj,Urban,Nautanwa (NPP),4757,17680
+Mahrajganj,Urban,Nichlaul (NP),3055,11144
+Mahrajganj,Urban,paniyara np,2876,10781
+Mahrajganj,Urban,partawal np,3735,14558
+Mahrajganj,Urban,Siswa Bazar (NP),13429,51039
+Mahrajganj,Urban,sonauli np,2818,11206
+Mahrajganj,Rural,BRIDGEMANGANJ,39274,161475
+Mahrajganj,Rural,DHANI,12783,52867
+Mahrajganj,Rural,GHUGHULI,44109,174387
+Mahrajganj,Rural,LAKSHMIPUR,43094,173918
+Mahrajganj,Rural,MAHARAJGANJ,38984,154349
+Mahrajganj,Rural,MITHAURA,45141,177743
+Mahrajganj,Rural,NAUTANWA,44705,168985
+Mahrajganj,Rural,NICHLAUL,52194,197337
+Mahrajganj,Rural,PANIYARA,41397,168851
+Mahrajganj,Rural,PARTAWAL,43759,179349
+Mahrajganj,Rural,PHARENDA,32481,139726
+Mahrajganj,Rural,SISWA,29520,116431
+Mainpuri,Urban,barnahal np,2819,10996
+Mainpuri,Urban,Bewar (NP),3669,14746
+Mainpuri,Urban,Bhogaon (NP),4688,19155
+Mainpuri,Urban,Ghiraur (NP),2903,11086
+Mainpuri,Urban,Jyoti Khuriya (NP),1060,4087
+Mainpuri,Urban,Karhal (NP),4528,18474
+Mainpuri,Urban,Kishni (NP),1798,7073
+Mainpuri,Urban,Kuraoali (NP),4266,18163
+Mainpuri,Urban,Kusmara (NP),1484,5979
+Mainpuri,Urban,Mainpuri (NPP),28743,110286
+Mainpuri,Rural,BARNAHAL,24646,95865
+Mainpuri,Rural,BEWAR,38738,145681
+Mainpuri,Rural,GHIROR,32006,124738
+Mainpuri,Rural,JAGIR,21506,83314
+Mainpuri,Rural,KARHAL,30147,121084
+Mainpuri,Rural,KISHNI,38639,140793
+Mainpuri,Rural,KURAOLI,30721,121373
+Mainpuri,Rural,MAINPURI,32749,133648
+Mainpuri,Rural,SULTANGAJ,40895,159603
+Mathura,Urban,Bajna (NP),1672,5797
+Mathura,Urban,Baldeo (NP),2234,8538
+Mathura,Urban,Barsana (NP),5462,20417
+Mathura,Urban,Chaumuhan (NP),2987,11903
+Mathura,Urban,Chhata (NP),4235,18101
+Mathura,Urban,Farah (NP),1878,7519
+Mathura,Urban,Gokul (NP),1040,3993
+Mathura,Urban,Govardhan (NP),6496,24881
+Mathura,Urban,Kosi Kalan (NPP),9775,44532
+Mathura,Urban,Mahaban (NP),2284,10026
+Mathura,Urban,Mathura (CB),0,0
+Mathura,Urban,Mathura (NPP),99864,381830
+Mathura,Urban,Nandgaon (NP),2130,8609
+Mathura,Urban,Radhakund (NP),1574,4950
+Mathura,Urban,Raya (NP),3618,15337
+Mathura,Urban,Saunkh (NP),1602,5852
+Mathura,Urban,Vrindavan (NPP),11441,36326
+Mathura,Rural,BALDEO,36563,136953
+Mathura,Rural,CHHATA,34321,133971
+Mathura,Rural,CHOUMUNHA,27036,103710
+Mathura,Rural,GOVARDHAN,31851,117458
+Mathura,Rural,MAT,32984,121389
+Mathura,Rural,MATHURA,30168,110295
+Mathura,Rural,NANDGAON,23252,91795
+Mathura,Rural,NAUJHIL,35514,127988
+Mathura,Rural,PHARAH,32342,118369
+Mathura,Rural,RAYA,32563,117134
+Mau,Urban,Adari (NP),2444,10240
+Mau,Urban,Amila (NP),3314,13394
+Mau,Urban,chiraiyakot np,2611,10392
+Mau,Urban,Dohrighat (NP),1683,7004
+Mau,Urban,Ghosi (NP),6490,27310
+Mau,Urban,Kopaganj (NPP),6705,26354
+Mau,Urban,kurthi jafarpur np,3042,13034
+Mau,Urban,madhuban np,3416,13942
+Mau,Urban,Maunath Bhanjan (NPP),59937,248080
+Mau,Urban,Muhammadabad (NP),5359,21306
+Mau,Urban,walidpur np,4308,18370
+Mau,Rural,BADRAON,33161,141866
+Mau,Rural,DOHRI GHAT,33421,138191
+Mau,Rural,FATEHPUR MADRAUN,38292,165074
+Mau,Rural,GHOSI,29714,126078
+Mau,Rural,KOPAGANJ,32405,135196
+Mau,Rural,MUHAMMADABAD GOHAN,33736,147760
+Mau,Rural,PARDAHA,17351,74830
+Mau,Rural,RANIPUR,35359,145033
+Mau,Rural,RATANPURA,34489,149007
+Meerut,Urban,Bahsuma (NP),2015,8228
+Meerut,Urban,Daurala (NP),2983,11438
+Meerut,Urban,harra np,3716,17176
+Meerut,Urban,Hastinapur (NP),5693,21111
+Meerut,Urban,Karnawal (NP),1726,6245
+Meerut,Urban,Kharkhoda (NP),1768,7430
+Meerut,Urban,khiwai np,3880,17589
+Meerut,Urban,Kithaur (NP),5035,25783
+Meerut,Urban,Lawar (NP),3995,17763
+Meerut,Urban,Mawana (NPP),13816,59188
+Meerut,Urban,Meerut (CB),2886,10966
+Meerut,Urban,Meerut (M Corp.),187132,765024
+Meerut,Urban,Parikshitgarh (NP),3418,15551
+Meerut,Urban,Phalauda (NP),3803,16639
+Meerut,Urban,Sardhana (NPP),11356,52123
+Meerut,Urban,Sewalkhas (NP),5003,24325
+Meerut,Urban,shahjahanpur np,2604,12083
+Meerut,Rural,DAURALA,26987,109164
+Meerut,Rural,HASTINAPUR,21556,86573
+Meerut,Rural,JANI,27570,118782
+Meerut,Rural,KHARKHODA,21031,94613
+Meerut,Rural,MACHHARA,23461,103664
+Meerut,Rural,MAWANA KALA,22615,93609
+Meerut,Rural,MEERUT,12776,52452
+Meerut,Rural,PARIKSHITGARH,29903,126726
+Meerut,Rural,RAJPURA,36485,156154
+Meerut,Rural,ROHATA,21928,91475
+Meerut,Rural,SARDHANA,28906,122081
+Meerut,Rural,SARURPUR,26579,114954
+Mirzapur,Urban,Ahraura (NPP),4190,16997
+Mirzapur,Urban,Chunar (NPP),7306,28134
+Mirzapur,Urban,Kachhwa (NP),2913,12597
+Mirzapur,Urban,Mirzapur-cum-Vindhyachal (NPP),39900,156622
+Mirzapur,Rural,CHHANVEY,51880,218548
+Mirzapur,Rural,CITY NAGAR,46596,198371
+Mirzapur,Rural,HALIYA,44022,179722
+Mirzapur,Rural,JAMALPUR,45416,174265
+Mirzapur,Rural,KON,22758,99644
+Mirzapur,Rural,LALGANJ,26732,110902
+Mirzapur,Rural,MAHIHAON,26087,99714
+Mirzapur,Rural,MAJHAWAN,28986,128336
+Mirzapur,Rural,NARAINPUR,39033,154162
+Mirzapur,Rural,PAHARI,25812,109041
+Mirzapur,Rural,RAJGARH,41038,154629
+Mirzapur,Rural,SIKHDI,16750,68248
+Moradabad,Urban,agwanpur np,3646,16692
+Moradabad,Urban,Bhojpur Dharampur (NP),4934,25347
+Moradabad,Urban,Bilari (NPP),6497,26148
+Moradabad,Urban,dhakiya np,3687,17039
+Moradabad,Urban,Kanth (NP),4776,18940
+Moradabad,Urban,Kundarki (NP),6059,26947
+Moradabad,Urban,mahmoodpur mafi np,3344,14340
+Moradabad,Urban,Moradabad (M Corp.),130976,521147
+Moradabad,Urban,pakbada np,6559,30009
+Moradabad,Urban,Thakurdwara (NPP),8426,35212
+Moradabad,Urban,Umri Kalan (NP),2939,12515
+Moradabad,Rural,BANIAKHERA (Bilari),0,0
+Moradabad,Rural,BHAGATPURTANDA,44018,185003
+Moradabad,Rural,BILARI,48116,198595
+Moradabad,Rural,CHHAJLET,48079,179251
+Moradabad,Rural,DILARI,50673,199692
+Moradabad,Rural,DILARI (Kanth),0,0
+Moradabad,Rural,KUNDARKI,56391,252154
+Moradabad,Rural,MORADABAD,30740,127435
+Moradabad,Rural,MUNDAPANDEY,46390,191966
+Moradabad,Rural,THAKURDWARA,41550,153040
+Moradabad,Rural,THAKURDWARA (Kanth),0,0
+Muzaffarnagar,Urban,Bhokarhedi (NP),3425,13311
+Muzaffarnagar,Urban,Budhana (NP),6738,30552
+Muzaffarnagar,Urban,Charthawal (NP),3225,15280
+Muzaffarnagar,Urban,Jansath (NP),3350,14958
+Muzaffarnagar,Urban,Khatauli (NPP),11443,50491
+Muzaffarnagar,Urban,Miranpur (NP),4545,20233
+Muzaffarnagar,Urban,Muzaffarnagar (NPP),76129,335334
+Muzaffarnagar,Urban,Purquazi (NP),4326,19385
+Muzaffarnagar,Urban,Shahpur (NP),3418,15072
+Muzaffarnagar,Urban,Sisauli (NP),1988,8744
+Muzaffarnagar,Rural,BAGHARA-8 [R],42230,171925
+Muzaffarnagar,Rural,BUDHANA-10 [R],52963,236312
+Muzaffarnagar,Rural,CHARTHAWAL-5 [R],43424,171878
+Muzaffarnagar,Rural,JANSATH-13 [R],45897,193112
+Muzaffarnagar,Rural,KHATAULI-14 [R],53510,228387
+Muzaffarnagar,Rural,MORNA-12 [R],44466,185293
+Muzaffarnagar,Rural,MZR_NAGAR-7 [R],43696,179426
+Muzaffarnagar,Rural,PURKAJI-6 [R],30213,118440
+Muzaffarnagar,Rural,SHAHPUR-11 [R],30399,131263
+Pilibhit,Urban,Barkhera (NP),2573,10734
+Pilibhit,Urban,Bilsanda (NP),2721,11116
+Pilibhit,Urban,Bisalpur (NPP),12127,52981
+Pilibhit,Urban,Gulariya Bhindara (NP),850,3781
+Pilibhit,Urban,Jahanabad (NP),2789,12305
+Pilibhit,Urban,Kalinagar (NP),2436,9491
+Pilibhit,Urban,Nyoria Husainpur (NP),4344,19968
+Pilibhit,Urban,pakadia naugawan np,2889,13135
+Pilibhit,Urban,Pilibhit (NPP),21456,83682
+Pilibhit,Urban,Puranpur (NPP),6574,27427
+Pilibhit,Rural,AMARIA,49679,206167
+Pilibhit,Rural,BARKHERA,37717,151317
+Pilibhit,Rural,BILSANDA,37537,151294
+Pilibhit,Rural,BISALPUR,31494,132474
+Pilibhit,Rural,LALAURIKHERA,30414,125077
+Pilibhit,Rural,MARAURI,48027,182592
+Pilibhit,Rural,PURANPUR,114389,429788
+Pratapgarh,Urban,Antu (NP),3001,13178
+Pratapgarh,Urban,Bela Pratapgarh (NPP),15828,67199
+Pratapgarh,Urban,derwa,4299,18179
+Pratapgarh,Urban,dhakwa,2708,11360
+Pratapgarh,Urban,gadwara bazaar,2973,13637
+Pratapgarh,Urban,heeraganj bazaar,3949,17052
+Pratapgarh,Urban,katra gulab singh,4697,19884
+Pratapgarh,Urban,Katra Medniganj (NP),1829,8429
+Pratapgarh,Urban,kohandaur,2841,12418
+Pratapgarh,Urban,Kunda (NP),3925,17271
+Pratapgarh,Urban,lalganj,3691,15322
+Pratapgarh,Urban,maandhata bazaar,3824,16491
+Pratapgarh,Urban,Manikpur (NP),5015,22740
+Pratapgarh,Urban,Patti (NP),1365,6092
+Pratapgarh,Urban,Pratapgarh City (NP),2737,13286
+Pratapgarh,Urban,prithviganj,4002,17683
+Pratapgarh,Urban,ramganj,2880,12605
+Pratapgarh,Urban,raniganj,4320,20882
+Pratapgarh,Urban,suvansh bazaar,3679,17065
+Pratapgarh,Rural,AASPUR DEVSARA,24454,106935
+Pratapgarh,Rural,BABABELKHAR NATH DHAM,28601,130692
+Pratapgarh,Rural,BABAGANJ,31039,132762
+Pratapgarh,Rural,GAURA,26014,114698
+Pratapgarh,Rural,KALAKANKAR,27871,113199
+Pratapgarh,Rural,KUNDA,45843,200035
+Pratapgarh,Rural,LAKSHMANPUR,30208,132170
+Pratapgarh,Rural,LALGANJ AJHARA,24518,100097
+Pratapgarh,Rural,MANDHATA,31898,137736
+Pratapgarh,Rural,MANGRAURA,26152,114916
+Pratapgarh,Rural,PATTI,21199,93368
+Pratapgarh,Rural,RAMPUR SANGRAMGARH,30458,120854
+Pratapgarh,Rural,SADAR,25161,111390
+Pratapgarh,Rural,SANDWA CHANDRIKA,25157,110989
+Pratapgarh,Rural,SANGHIPUR,34066,138818
+Pratapgarh,Rural,SHIVGARH,24788,113648
+Pratapgarh,Rural,VIHAR,38665,163998
+Prayagraj,Urban,Allahabad (CB),0,0
+Prayagraj,Urban,Allahabad (M Corp.),219632,908347
+Prayagraj,Urban,Bharatganj (NP),3560,16516
+Prayagraj,Urban,Handia (NP),3500,15424
+Prayagraj,Urban,Jhusi (NP),0,0
+Prayagraj,Urban,Koraon (NP),2976,13346
+Prayagraj,Urban,Lal Gopalganj Nindaura (NP),5301,23483
+Prayagraj,Urban,Mau Aima (NP),3151,14224
+Prayagraj,Urban,Phulpur (NP),3199,14747
+Prayagraj,Urban,Shankargarh (NP),2500,9675
+Prayagraj,Urban,Sirsa (NP),1897,8329
+Prayagraj,Rural,BAHADURPUR,33145,129203
+Prayagraj,Rural,BAHARIYA,42824,169837
+Prayagraj,Rural,bhagwatpur,25884,105921
+Prayagraj,Rural,CHAKA,11247,45801
+Prayagraj,Rural,DHANOOPUR,44199,188992
+Prayagraj,Rural,HANDIYA,39721,166275
+Prayagraj,Rural,HOLAGARH,27390,110852
+Prayagraj,Rural,JASRA,35878,136968
+Prayagraj,Rural,KARCHANA,41452,169073
+Prayagraj,Rural,KAUDIHAAR,18786,79789
+Prayagraj,Rural,KONDHIYARA,28615,112000
+Prayagraj,Rural,KORAON,65379,263639
+Prayagraj,Rural,MANDA,37870,152252
+Prayagraj,Rural,MAU AIMA,35417,149583
+Prayagraj,Rural,MEJA,38872,156974
+Prayagraj,Rural,PHULPUR,31788,130734
+Prayagraj,Rural,PRATAPPUR,39900,167942
+Prayagraj,Rural,sahson,19307,76101
+Prayagraj,Rural,SAIDABAD,47873,204056
+Prayagraj,Rural,SARAON,25601,105470
+Prayagraj,Rural,SHANKARGARH,35426,125336
+Prayagraj,Rural,shringverpur dham,25651,109773
+Prayagraj,Rural,URUWA,38309,155567
+Rae Bareli,Urban,Bachhrawan (NP),1992,7836
+Rae Bareli,Urban,Dalmau (NP),1880,7423
+Rae Bareli,Urban,Lalganj (NP),3529,14318
+Rae Bareli,Urban,Maharajganj (NP),1227,5076
+Rae Bareli,Urban,nasirabad np,2524,10744
+Rae Bareli,Urban,Parsadepur (NP),2852,12725
+Rae Bareli,Urban,Rae Bareli (NPP),24286,96970
+Rae Bareli,Urban,Salon (NP),4019,18583
+Rae Bareli,Urban,shivgarh np,3824,15082
+Rae Bareli,Urban,Unchahar (NP),1482,6593
+Rae Bareli,Rural,AMAWAN,24190,89892
+Rae Bareli,Rural,BACHRAWAN,32991,121795
+Rae Bareli,Rural,CHHATOH,20494,86049
+Rae Bareli,Rural,DALMAU,38229,144696
+Rae Bareli,Rural,DEENSHAH GAURA,22006,84894
+Rae Bareli,Rural,DIHA,25702,105131
+Rae Bareli,Rural,HARCHANDPUR,26057,97661
+Rae Bareli,Rural,JAGATPUR,17623,72205
+Rae Bareli,Rural,KHIRO,33815,124025
+Rae Bareli,Rural,LALGANJ,31961,120524
+Rae Bareli,Rural,MAHARAJGANJ,27393,108548
+Rae Bareli,Rural,RAHI,37351,141540
+Rae Bareli,Rural,ROHINIYAN,14648,64186
+Rae Bareli,Rural,SALON,43247,173949
+Rae Bareli,Rural,SARENI,35594,130335
+Rae Bareli,Rural,SATAON,32564,116486
+Rae Bareli,Rural,SHIVGARH,19867,79227
+Rae Bareli,Rural,UNCHAHAR,29263,129430
+Rampur,Urban,Bilaspur (NPP),5846,25449
+Rampur,Urban,dadhiyal,4160,17445
+Rampur,Urban,Kemri (NP),4371,20734
+Rampur,Urban,Maswasi (NP),3105,13436
+Rampur,Urban,Milak (NPP),4301,16780
+Rampur,Urban,narpatnagar dundawala,2822,13068
+Rampur,Urban,Rampur (NPP),49574,174809
+Rampur,Urban,saifni,3877,18220
+Rampur,Urban,Shahabad (NP),6818,29055
+Rampur,Urban,Suar (NPP),5528,25580
+Rampur,Urban,Tanda (NPP),9041,40543
+Rampur,Rural,BILASPUR,41820,171402
+Rampur,Rural,BILASPUR(SUAR),0,0
+Rampur,Rural,CHAMRAUA,43530,184690
+Rampur,Rural,MILAK,59783,240670
+Rampur,Rural,SAIDNAGAR,41621,177755
+Rampur,Rural,SAIDNAGAR (Tanda),0,0
+Rampur,Rural,SHAHABAD,56243,227283
+Rampur,Rural,SUAR,75589,324662
+Rampur,Rural,SUAR (Tanda),0,0
+Saharanpur,Urban,Ambehta (NP),2394,10622
+Saharanpur,Urban,Behat (NP),3348,16414
+Saharanpur,Urban,chhutmalpur np,3311,15368
+Saharanpur,Urban,Chilkana Sultanpur (NP),2832,13801
+Saharanpur,Urban,Deoband (NPP),14936,64961
+Saharanpur,Urban,Gangoh (NPP),9101,40578
+Saharanpur,Urban,Nakur (NPP),3299,13778
+Saharanpur,Urban,Nanauta (NP),3866,17101
+Saharanpur,Urban,Rampur Maniharan (NP),5599,24421
+Saharanpur,Urban,Saharanpur (M Corp.),108999,449458
+Saharanpur,Urban,Sarsawa (NPP),2623,11419
+Saharanpur,Urban,Titron (NP),1229,5431
+Saharanpur,Rural,BALLIA_KHERI [R],38799,162058
+Saharanpur,Rural,DEOBAND [R],34847,145780
+Saharanpur,Rural,GANGOH [R],49197,213896
+Saharanpur,Rural,MUZAFFARABAD [R],54221,234553
+Saharanpur,Rural,NAGAL [R],36448,152311
+Saharanpur,Rural,NAKUR [R],39130,162837
+Saharanpur,Rural,NANAUTA [R],30641,125118
+Saharanpur,Rural,PUWARKA [R],45668,201226
+Saharanpur,Rural,RAMPUR [R],27485,112412
+Saharanpur,Rural,SADAULI_QADEEM [R],39077,172067
+Saharanpur,Rural,SARSAWAN [R],44844,194019
+Sambhal,Urban,Babrala (NP),2521,10102
+Sambhal,Urban,Bahjoi (NPP),5155,20558
+Sambhal,Urban,Chandausi (NPP),15004,60732
+Sambhal,Urban,Gawan (NP),1527,6288
+Sambhal,Urban,Gunnaur (NP),4401,17882
+Sambhal,Urban,Narauli (NP),3197,15420
+Sambhal,Urban,Sambhal (NPP),31670,141093
+Sambhal,Urban,Sirsi (NP),3686,16317
+Sambhal,Rural,ASMOLI,48690,202515
+Sambhal,Rural,BANIAKHERA,51069,209826
+Sambhal,Rural,BEHJOI,33824,132361
+Sambhal,Rural,BILARI (Chandausi),0,0
+Sambhal,Rural,GUNNAUR,30259,121120
+Sambhal,Rural,JUNAWAI,27620,105155
+Sambhal,Rural,PANWASA (Chandausi),0,0
+Sambhal,Rural,PAWASA,49138,192536
+Sambhal,Rural,RAJPURA,34338,137059
+Sambhal,Rural,SAMBHAL,52965,214177
+Sant Kabir Nagar,Urban,baghnagar urf bakhira,6717,27017
+Sant Kabir Nagar,Urban,belhar kala,2856,10707
+Sant Kabir Nagar,Urban,Dharmsinghwa,3498,14392
+Sant Kabir Nagar,Urban,haisar bazar,6618,27137
+Sant Kabir Nagar,Urban,Hariharpur (NP),2358,10528
+Sant Kabir Nagar,Urban,Khalilabad (NPP),10483,44810
+Sant Kabir Nagar,Urban,Maghar (NP),3543,14034
+Sant Kabir Nagar,Urban,Mehdawal (NP),10499,41009
+Sant Kabir Nagar,Rural,BAGHAULI,34030,136283
+Sant Kabir Nagar,Rural,BELAHAR KALA,27647,106262
+Sant Kabir Nagar,Rural,HAISAR BAZAR,36836,156084
+Sant Kabir Nagar,Rural,KHALILABAD,34487,140804
+Sant Kabir Nagar,Rural,MEHDAWAL,29257,109756
+Sant Kabir Nagar,Rural,NATHNAGAR,40095,167547
+Sant Kabir Nagar,Rural,PAULI,23605,92124
+Sant Kabir Nagar,Rural,SANTHAHA,26192,102236
+Sant Kabir Nagar,Rural,SEMARIYAWAN,42961,174610
+Sant Ravidas Nagar (Bhadohi),Urban,Bhadohi (NPP),23865,91793
+Sant Ravidas Nagar (Bhadohi),Urban,Ghosia Bazar (NP),3772,16170
+Sant Ravidas Nagar (Bhadohi),Urban,Gopiganj (NPP),5679,22242
+Sant Ravidas Nagar (Bhadohi),Urban,Gyanpur (NP),2835,9208
+Sant Ravidas Nagar (Bhadohi),Urban,Khamaria (NP),4088,16213
+Sant Ravidas Nagar (Bhadohi),Urban,Nai Bazar (NP),2485,8941
+Sant Ravidas Nagar (Bhadohi),Urban,Suriyawan (NP),3573,13827
+Sant Ravidas Nagar (Bhadohi),Rural,Abholi,24148,100793
+Sant Ravidas Nagar (Bhadohi),Rural,AURAI,61745,253085
+Sant Ravidas Nagar (Bhadohi),Rural,BHADOHI,47053,181984
+Sant Ravidas Nagar (Bhadohi),Rural,DIGH,51858,208842
+Sant Ravidas Nagar (Bhadohi),Rural,GYANPUR,42955,174237
+Sant Ravidas Nagar (Bhadohi),Rural,SURIYAWAN,27315,105779
+Shahjahanpur,Urban,Allahganj (NP),2925,10958
+Shahjahanpur,Urban,banda np,4869,17719
+Shahjahanpur,Urban,Jalalabad (NPP),5684,21278
+Shahjahanpur,Urban,kalan np,3242,13419
+Shahjahanpur,Urban,Kanth (NP),5393,22784
+Shahjahanpur,Urban,Katra (NP),5626,23198
+Shahjahanpur,Urban,Khudaganj (NP),2507,9246
+Shahjahanpur,Urban,Khutar (NP),3598,12736
+Shahjahanpur,Urban,nigohi np,4632,16329
+Shahjahanpur,Urban,Powayan (NP),5075,17912
+Shahjahanpur,Urban,Railway Settlement Roza (NP),1364,5390
+Shahjahanpur,Urban,Shahjahanpur (CB),900,3451
+Shahjahanpur,Urban,Shahjahanpur (NPP),53322,200202
+Shahjahanpur,Urban,Tilhar (NPP),10331,41636
+Shahjahanpur,Rural,BANDA,38215,130222
+Shahjahanpur,Rural,BHAWALKHERA,51959,193510
+Shahjahanpur,Rural,DADROL,35960,129344
+Shahjahanpur,Rural,JAITIPUR,26605,100600
+Shahjahanpur,Rural,JALALABAD,39092,141057
+Shahjahanpur,Rural,KALAN,29242,111144
+Shahjahanpur,Rural,KANTH,29230,107354
+Shahjahanpur,Rural,KATRA,28539,102790
+Shahjahanpur,Rural,KHUTAR,24999,86981
+Shahjahanpur,Rural,MADNAPUR,28702,107692
+Shahjahanpur,Rural,MIRZAPUR,29666,110372
+Shahjahanpur,Rural,NIGHOI,31595,116126
+Shahjahanpur,Rural,POWAYAN,36045,127527
+Shahjahanpur,Rural,SIDNDHAULI,38688,141975
+Shahjahanpur,Rural,TIHAR,28819,105716
+Shamli,Urban,Ailam (NP),1239,5321
+Shamli,Urban,Banat (NP),2451,11047
+Shamli,Urban,Garhi Pukhta (NP),1497,6886
+Shamli,Urban,Jalalabad (NP),3365,14901
+Shamli,Urban,Jhinjhana (NP),2885,13400
+Shamli,Urban,Kairana (NPP),15988,75955
+Shamli,Urban,Kandhla (NPP),6711,29797
+Shamli,Urban,Shamli (NPP),13193,59471
+Shamli,Urban,Thana Bhawan (NP),5372,24785
+Shamli,Urban,Un (NP),2103,8868
+Shamli,Rural,KAIRANA-4 [R],32816,142844
+Shamli,Rural,KANDHLA-9 [R],29527,125503
+Shamli,Rural,SHAMLI-3 [R],22963,96939
+Shamli,Rural,THANA_BHAWAN-2 [R],38294,169043
+Shamli,Rural,UN-1 [R],40214,174325
+Shrawasti,Urban,Bhinga (NP),5690,23061
+Shrawasti,Urban,Ikauna (NP),2177,8794
+Shrawasti,Rural,GILAULA,42250,162430
+Shrawasti,Rural,HARIHARPUR RANI,35871,143709
+Shrawasti,Rural,IKONA,43446,175302
+Shrawasti,Rural,JAMUNAHA,46298,187438
+Shrawasti,Rural,SIRSIYA,43841,172541
+Siddharthnagar,Urban,badhni chafa np,3794,16583
+Siddharthnagar,Urban,Bansi (NPP),6264,23951
+Siddharthnagar,Urban,Barhani Bazar (NP),2308,7817
+Siddharthnagar,Urban,bharat bhari np,3966,18127
+Siddharthnagar,Urban,Domariyaganj (NP),5041,21112
+Siddharthnagar,Urban,itwa np,4512,19476
+Siddharthnagar,Urban,kapilvastu np,3456,13675
+Siddharthnagar,Urban,Shohratgarh (NP),4180,15273
+Siddharthnagar,Urban,Siddharthnagar (NPP),9778,36172
+Siddharthnagar,Urban,Uska Bazar (NP),4469,16429
+Siddharthnagar,Urban,viskohar np,4916,19079
+Siddharthnagar,Rural,BANSI,31893,118973
+Siddharthnagar,Rural,BARHNI BAZAR,28666,107637
+Siddharthnagar,Rural,BHANWAPUR,33246,137891
+Siddharthnagar,Rural,BIRDPUR,29377,126074
+Siddharthnagar,Rural,DOMARIYAGANJ,38221,170284
+Siddharthnagar,Rural,ITWA,29386,125691
+Siddharthnagar,Rural,JOGIA,27758,109638
+Siddharthnagar,Rural,KHESRAHA,37594,150409
+Siddharthnagar,Rural,KHUNIYAON,41857,170814
+Siddharthnagar,Rural,LOTAN,21921,86463
+Siddharthnagar,Rural,MITHWAL,39636,158564
+Siddharthnagar,Rural,NAUGARH,27831,112982
+Siddharthnagar,Rural,SHOHRANGARHR,24791,95690
+Siddharthnagar,Rural,USKA BAZAR,20319,81583
+Sitapur,Urban,Biswan (NPP),9118,38558
+Sitapur,Urban,Hargaon (NP),3296,12593
+Sitapur,Urban,Khairabad (NPP),8258,35789
+Sitapur,Urban,Laharpur (NPP),10011,46355
+Sitapur,Urban,Mahmudabad (NPP),10967,46942
+Sitapur,Urban,Maholi (NP),5685,20738
+Sitapur,Urban,Misrikh-cum-Neemsar (NPP),2868,10907
+Sitapur,Urban,Paintepur (NP),2281,9746
+Sitapur,Urban,Sidhauli (NP),3897,14932
+Sitapur,Urban,Sitapur (NPP),24671,90957
+Sitapur,Urban,Tambaur-cum-Ahamdabad (NP),4334,19409
+Sitapur,Rural,BEHTA,49770,174796
+Sitapur,Rural,BISWAN,58747,217995
+Sitapur,Rural,EALLIYA,41543,150323
+Sitapur,Rural,GONDLAMAU,43442,164574
+Sitapur,Rural,HARGAON,45241,163196
+Sitapur,Rural,KASMANDA,41514,157795
+Sitapur,Rural,KHAIRABAD,43566,158529
+Sitapur,Rural,LAHARPUR,37806,135364
+Sitapur,Rural,MACHHREHTA,41019,150069
+Sitapur,Rural,MAHMUDABAD,32396,129709
+Sitapur,Rural,MAHOLI,34650,125095
+Sitapur,Rural,MISHRIKH,39907,149148
+Sitapur,Rural,PAHALA,41157,154582
+Sitapur,Rural,PARSENDI,47146,169423
+Sitapur,Rural,PISAWAN,49019,176097
+Sitapur,Rural,RAMPUR MATHURA,44707,182209
+Sitapur,Rural,REUSA,61710,232761
+Sitapur,Rural,SAKARAN,45566,169814
+Sitapur,Rural,SIDHAULI,41468,157138
+Sonbhadra,Urban,anpara np,7834,32112
+Sonbhadra,Urban,Chopan (NP),4173,17103
+Sonbhadra,Urban,Churk Ghurma (NP),1581,6562
+Sonbhadra,Urban,dala np,981,3625
+Sonbhadra,Urban,Dudhi (NP),2684,11093
+Sonbhadra,Urban,Ghorawal (NP),1051,4481
+Sonbhadra,Urban,Hindalco Industries Ltd. (Renukoot) (ITS),0,0
+Sonbhadra,Urban,Kanaudia Chamical & Industries Ltd. (Renukoot) (ITS),0,0
+Sonbhadra,Urban,Obra (NP),8409,32055
+Sonbhadra,Urban,Pipri (NP),1780,7156
+Sonbhadra,Urban,Renukoot (NP),6807,27094
+Sonbhadra,Urban,Sonbhadra (NPP),8959,35536
+Sonbhadra,Rural,BABHANI,24723,91548
+Sonbhadra,Rural,CHATRA,26624,91292
+Sonbhadra,Rural,CHOPAN,42433,154287
+Sonbhadra,Rural,DUDHI,35778,140976
+Sonbhadra,Rural,GHORAWAL,46349,171142
+Sonbhadra,Rural,karma,33105,122389
+Sonbhadra,Rural,kon,26711,97919
+Sonbhadra,Rural,MYOREPUR,53746,204828
+Sonbhadra,Rural,NAGAWA,21780,67901
+Sonbhadra,Rural,ROBERTSGANJ,47787,173542
+Sultanpur,Urban,Dostpur (NP),2387,11511
+Sultanpur,Urban,Kadipur (NP),1551,7148
+Sultanpur,Urban,Koeripur (NP),1454,6963
+Sultanpur,Urban,lambhua np,3563,15387
+Sultanpur,Urban,Sultanpur (NPP),15339,63922
+Sultanpur,Rural,AKHAND NAGAR,29780,122156
+Sultanpur,Rural,BHADAYEENA,30667,125913
+Sultanpur,Rural,DHANPATGANJ,32178,123005
+Sultanpur,Rural,DOSTPUR,25358,100345
+Sultanpur,Rural,DUBEPUR,45780,182959
+Sultanpur,Rural,JAISINGHPUR,37977,149713
+Sultanpur,Rural,KADIPUR,27099,115797
+Sultanpur,Rural,Karaudikala,18942,79276
+Sultanpur,Rural,KUREBHAR,39923,157340
+Sultanpur,Rural,KURWAR,39299,157021
+Sultanpur,Rural,LAMBHUA,32021,130272
+Sultanpur,Rural,MOTIGAR PUR,19514,75493
+Sultanpur,Rural,PRATAP PURKAMAICHA,25168,103506
+Sultanpur,Rural,WALDIRAI,35193,140592
+Unnao,Urban,achalganj np,3582,12627
+Unnao,Urban,Auras (NP),1378,5435
+Unnao,Urban,Bangarmau (NPP),8511,34626
+Unnao,Urban,Bhagwant Nagar (NP),2004,7325
+Unnao,Urban,Bighapur (NP),1212,4132
+Unnao,Urban,Fatehpur Chaurasi (NP),1213,4866
+Unnao,Urban,Gangaghat (NPP),14514,53294
+Unnao,Urban,Ganj Muradabad (NP),2150,9183
+Unnao,Urban,Hyderabad (NP),1658,6779
+Unnao,Urban,Kursath (NP),1159,5352
+Unnao,Urban,Maurawan (NP),2634,10915
+Unnao,Urban,Mohan (NP),2924,12286
+Unnao,Urban,Nawabganj (NP),1936,7878
+Unnao,Urban,Nyotini (NP),1675,7035
+Unnao,Urban,Purwa (NP),4526,17684
+Unnao,Urban,Rasulabad (NP),1530,5832
+Unnao,Urban,Safipur (NP),4442,18165
+Unnao,Urban,Ugu (NP),1308,4675
+Unnao,Urban,Unnao (NPP),29412,111059
+Unnao,Rural,ASHOHA,32916,127788
+Unnao,Rural,AURAAS,30382,112760
+Unnao,Rural,BANGARMAU,30129,121403
+Unnao,Rural,BICHHIYA,36816,128149
+Unnao,Rural,BIGHAPUR,27456,100176
+Unnao,Rural,FATEHPUR CHAURASI,30006,119216
+Unnao,Rural,GANJMORADABD,28687,118057
+Unnao,Rural,HASANGANJ,37044,141029
+Unnao,Rural,HILAULI,37219,147696
+Unnao,Rural,MIAGANJ,34278,124253
+Unnao,Rural,NAWABGANJ,35860,131203
+Unnao,Rural,PURWA,26653,99574
+Unnao,Rural,SAFIPUR,31190,115700
+Unnao,Rural,SIKANDERPUR KARAN,40852,142410
+Unnao,Rural,SIKANDERPUR SAROSI,36856,129806
+Unnao,Rural,SUMERPUR,30193,113727
+Varanasi,Urban,Gangapur (NP),995,4645
+Varanasi,Urban,Maruadih Railway Settlement (ITS),0,0
+Varanasi,Urban,Ramnagar (NPP),7058,30157
+Varanasi,Urban,Varanasi (CB),0,0
+Varanasi,Urban,Varanasi (M Corp.),231391,1008480
+Varanasi,Rural,ARAJILINE,66260,302946
+Varanasi,Rural,BARAGAON,42892,188039
+Varanasi,Rural,CHIRAI GAON,39673,170965
+Varanasi,Rural,CHOLAPUR,41912,184812
+Varanasi,Rural,HARHUA,35840,151551
+Varanasi,Rural,KASHI VIDYA PITH,40502,180897
+Varanasi,Rural,PINDARA,52305,231535
+Varanasi,Rural,SEWAPURI,42797,199725
